@@ -1,0 +1,188 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Keywords" content="{$keywords}" />
+<meta name="Description" content="{$description}" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>{$page_title}</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link rel="shortcut icon" href="favicon.ico" />
+<link rel="icon" href="animated_favicon.gif" type="image/gif" />
+<link href="{$ecs_css_path}" rel="stylesheet" type="text/css" />
+
+<link rel="alternate" type="application/rss+xml" title="RSS|{$page_title}" href="{$feed_url}" />
+{* 包含脚本文件 *}
+{insert_scripts files='common.js,index.js'}
+</head>
+<body>
+<!-- #BeginLibraryItem "/library/page_header.lbi" --><!-- #EndLibraryItem -->
+<!-- #BeginLibraryItem "/library/index_focus.lbi" --><!-- #EndLibraryItem -->
+<!-- #BeginLibraryItem "/library/index_ad.lbi" --><!-- #EndLibraryItem -->
+<!-- #BeginLibraryItem "/library/new_articles.lbi" --><!-- #EndLibraryItem -->
+<!-- #BeginLibraryItem "/library/recommend_best_b.lbi" --><!-- #EndLibraryItem -->
+<!-- #BeginLibraryItem "/library/recommend_promotion.lbi" --><!-- #EndLibraryItem -->
+<!-- #BeginLibraryItem "/library/recommend_category_goods.lbi" --><!-- #EndLibraryItem -->
+<!-- TemplateBeginEditable name="左边区域" -->
+
+<!-- #EndLibraryItem -->
+<!-- #BeginLibraryItem "/library/recommend_hot.lbi" -->
+
+<!-- {if $hot_goods} -->
+<!-- {if $cat_rec_sign neq 1} -->
+<div class="box  ">
+  <div class="itemTit" id="itemHot">
+   <div class="tit">
+       <DIV class="f_l">新鲜蔬菜</div>
+      <DIV class="ss_class"> 
+      {if $cat_rec[3]}
+      <h2><a href="javascript:void(0)" onMouseOver="change_tab_style('itemHot', 'h2', this);get_cat_recommend(3, 0);">{$lang.all_goods}</a></h2>
+      {foreach from=$cat_rec[3] item=rec_data}
+      <h2 class="h2bg"><a href="javascript:void(0)" onMouseOver="change_tab_style('itemHot', 'h2', this);get_cat_recommend(3, {$rec_data.cat_id})">{$rec_data.cat_name}</a></h2>
+      {/foreach}
+      {/if}
+       </div>
+      </div>
+  </div>
+  
+  
+  <div class="blank"></div>
+  <div id="show_hot_area" class="clearfix">
+  <!-- {/if} -->
+  <!--{foreach from=$hot_goods item=goods}-->
+  <div class="goodsItem">
+ 
+           <a href="{$goods.url}"><img src="{$goods.thumb}" alt="{$goods.name|escape:html}" class="goodsimg" /></a><br />
+            <p class="f1"><a href="{$goods.url}" title="{$goods.name|escape:html}">{$goods.short_style_name}</a></p>
+              <font class="market">{$goods.market_price}</font><br />
+           <font class="f1">
+           <!-- {if $goods.promote_price neq ""} -->
+          {$goods.promote_price}
+          <!-- {else}-->
+          {$goods.shop_price}
+          <!--{/if}-->
+           </font>
+        </div>
+  <!--{/foreach}-->
+
+  <!-- {if $cat_rec_sign neq 1} -->
+  </div>
+
+</div>
+<div class="blank"></div>
+  <!-- {/if} -->
+<!-- {/if} -->
+
+ <!-- #EndLibraryItem -->
+<!-- #BeginLibraryItem "/library/recommend_promotion.lbi" -->
+
+<!-- {if $promotion_goods} -->
+<script >
+var Tday = new Array();
+var daysms = 24 * 60 * 60 * 1000
+var hoursms = 60 * 60 * 1000
+var Secondms = 60 * 1000
+var microsecond = 1000
+var DifferHour = -1
+var DifferMinute = -1
+var DifferSecond = -1
+function clock(key)
+  {
+   var time = new Date()
+   var hour = time.getHours()
+   var minute = time.getMinutes()
+   var second = time.getSeconds()
+   var timevalue = ""+((hour > 12) ? hour-12:hour)
+   timevalue +=((minute < 10) ? ":0":":")+minute
+   timevalue +=((second < 10) ? ":0":":")+second
+   timevalue +=((hour >12 ) ? " PM":" AM")
+   var convertHour = DifferHour
+   var convertMinute = DifferMinute
+   var convertSecond = DifferSecond
+   var Diffms = Tday[key].getTime() - time.getTime()
+   DifferHour = Math.floor(Diffms / daysms)
+   Diffms -= DifferHour * daysms
+   DifferMinute = Math.floor(Diffms / hoursms)
+   Diffms -= DifferMinute * hoursms
+   DifferSecond = Math.floor(Diffms / Secondms)
+   Diffms -= DifferSecond * Secondms
+   var dSecs = Math.floor(Diffms / microsecond)
+   
+   if(convertHour != DifferHour) a="<font color=red>"+DifferHour+"</font>天";
+   if(convertMinute != DifferMinute) b="<font color=red>"+DifferMinute+"</font>时";
+   if(convertSecond != DifferSecond) c="<font color=red>"+DifferSecond+"</font>分"
+     d="<font color=red>"+dSecs+"</font>秒"
+     if (DifferHour>0) {a=a} 
+     else {a=''}
+   document.getElementById("leftTime"+key).innerHTML = a + b + c + d; //显示倒计时信息
+  
+  }
+</script>
+
+
+<!--限时打折S-->
+  <div class="promotion-goods">
+    <div class="p-time">限时打折</div>
+      <div class="promotion-focus">
+          <ul>
+           <!--{foreach from=$promotion_goods key=key item=goods name="promotion_foreach"}-->
+         {if $smarty.foreach.promotion_foreach.index <= 3}
+            <li>
+            <dd class="time-remain"><font class="f4" id="leftTime{$key}">{$lang.please_waiting}</font></dd>
+              <a href="{$goods.url}"><img src="{$goods.thumb}" border="0" alt="{$goods.name|escape:html}"/></a>
+              </br>{$lang.promote_price}<b>{$goods.promote_price}</b>
+              <p><a href="{$goods.url}" title="{$goods.name|escape:html}">{$goods.short_name|escape:html}</a></p>
+            </li>
+          
+          {/if}
+<script>
+Tday[{$key}] = new Date("{$goods.gmt_end_time}");   
+window.setInterval(function()     
+{clock({$key});}, 1000);     
+</script>
+         <!--{/foreach}-->
+          </ul>
+      </div>  
+  </div>
+     
+<!-- {/if} -->
+</div>
+<div style="clear:both;"></div>
+ <!-- #EndLibraryItem -->
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="首页顶部广告" -->
+<!-- #BeginLibraryItem "/library/brands.lbi" -->
+
+<!-- {if $brand_list} -->
+<div class="box">  <h3><span>品牌专区</span></h3>
+   <div class="box_1">
+  
+    <div class="boxCenterList">
+  <!-- {foreach from=$brand_list item=brand name="brand_foreach"} -->
+    {if $smarty.foreach.brand_foreach.index <= 11}
+      <!-- {if $brand.brand_logo} -->
+        <a href="{$brand.url}"><img style="width:170px; margin-bottom:5px;" src="data/brandlogo/{$brand.brand_logo}" alt="{$brand.brand_name|escape:html} ({$brand.goods_num})" /></a>
+      <!-- {else} -->
+      <div style="clear:both;">
+        <a href="{$brand.url}">{$brand.brand_name|escape:html} {if $brand.goods_num}({$brand.goods_num}){/if}</a>
+      </div>
+      <!-- {/if} -->
+    {/if}
+  <!-- {/foreach} -->
+</div>
+</div>
+</div>
+<!-- {/if} -->
+ <!-- #EndLibraryItem -->
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="右边主区域" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="全宽行" -->
+<!-- TemplateEndEditable -->
+<!-- #BeginLibraryItem "/library/help.lbi" --><!-- #EndLibraryItem -->
+<!-- #BeginLibraryItem "/library/page_footer.lbi" --><!-- #EndLibraryItem -->
+<!-- #BeginLibraryItem "/library/index_up_ad.lbi" --><!-- #EndLibraryItem -->
+</body>
+</html>

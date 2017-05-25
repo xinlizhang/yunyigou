@@ -1,0 +1,62 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<div class="tuijian"><img src="themes/yunyigou/images1/index_4_87.png"/>特别推荐</div>
+<div class="w1200 home-sale-layout">
+<div class="left-layout">
+    <ul class="tabs-nav">    
+        <li class="tabs-selected"><h3>热销商品</h3></li>
+        <li class=""><h3>精品推荐</h3></li>
+        <li class=""><h3>新品展示</h3></li>
+    </ul>
+    <div class="tabs-panel sale-goods-list">
+        <ul>
+        	<!--{foreach from=$best_goods name=best_goods item=goods}-->
+            <!--{if $smarty.foreach.best_goods.index lt 5}-->
+            <li>
+                <dl>
+                    <dt class="goods-name"><a href="{$goods.url}" target="_blank" title="{$goods.name|escape:html}">{$goods.short_style_name}</a></dt>
+                    <dd class="goods-thumb">
+                        <a href="{$goods.url}" target="_blank" title="{$goods.name|escape:html}"><img src="{$goods.thumb}" alt="{$goods.name|escape:html}" alt="{$goods.name|escape:html}" /></a>
+                    </dd>
+                    <dd class="goods-price">商城价：<em><!-- {if $goods.promote_price neq ""} -->{$goods.promote_price}<!-- {else}-->{$goods.shop_price}<!--{/if}--></em></dd>
+                </dl>
+            </li>
+            <!--{/if}-->
+            <!--{/foreach}-->
+        </ul>
+    </div>
+    <div class="tabs-panel sale-goods-list tabs-hide">
+    	<ul>
+        	<!--{foreach from=$hot_goods name=hot_goods item=goods}-->
+            <!--{if $smarty.foreach.hot_goods.index lt 5}-->
+            <li>
+                <dl>
+                    <dt class="goods-name"><a href="{$goods.url}" target="_blank" title="{$goods.name|escape:html}">{$goods.short_style_name}</a></dt>
+                    <dd class="goods-thumb">
+                        <a href="{$goods.url}" target="_blank" title="{$goods.name|escape:html}"><img src="{$goods.thumb}" alt="{$goods.name|escape:html}" alt="{$goods.name|escape:html}" /></a>
+                    </dd>
+                    <dd class="goods-price">商城价：<em><!-- {if $goods.promote_price neq ""} -->{$goods.promote_price}<!-- {else}-->{$goods.shop_price}<!--{/if}--></em></dd>
+                </dl>
+            </li>
+            <!--{/if}-->
+            <!--{/foreach}-->
+        </ul>
+    </div>
+    <div class="tabs-panel sale-goods-list tabs-hide">
+    	<ul>
+        	<!--{foreach from=$new_goods name=new_goods item=goods}-->
+            <!--{if $smarty.foreach.new_goods.index lt 5}-->
+            <li>
+                <dl>
+                    <dt class="goods-name"><a href="{$goods.url}" target="_blank" title="{$goods.name|escape:html}">{$goods.short_style_name}</a></dt>
+                    <dd class="goods-thumb">
+                        <a href="{$goods.url}" target="_blank" title="{$goods.name|escape:html}"><img src="{$goods.thumb}" alt="{$goods.name|escape:html}" alt="{$goods.name|escape:html}" /></a>
+                    </dd>
+                    <dd class="goods-price">商城价：<em><!-- {if $goods.promote_price neq ""} -->{$goods.promote_price}<!-- {else}-->{$goods.shop_price}<!--{/if}--></em></dd>
+                </dl>
+            </li>
+            <!-- {/if} -->
+            <!--{/foreach}-->
+        </ul>
+    </div>
+</div>
+

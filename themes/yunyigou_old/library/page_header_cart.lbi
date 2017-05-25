@@ -1,0 +1,68 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="themes/yunyigou/index.css" rel="stylesheet" type="text/css" />
+<script language='javascript' src='themes/yunyigou/js/jquery.min.js' type='text/javascript' charset='utf-8'></script>
+<script language='javascript' src='themes/yunyigou/js/index.js' type='text/javascript' charset='utf-8'></script>
+<script type="text/javascript">
+var process_request = "{$lang.process_request}";
+</script>
+
+<div class="top1">
+  <div class="content">
+  {insert_scripts files='transport.js,utils.js'}
+    <div class="left">{insert name='member_info'}</div>
+    <div class="right"><!--{if $navigator_list.top}-->
+    <!-- {foreach name=nav_top_list from=$navigator_list.top item=nav} -->
+           <a style="color:#666" href="{$nav.url}" <!-- {if $nav.opennew eq 1} --> target="_blank" <!-- {/if} -->>{$nav.name}</a>  |
+     <!-- {/foreach} -->        
+   <!-- {/if} --></div>
+  </div>  
+</div>
+<!--top1E-->
+<div style="clear:both"></div>
+
+<!--top1S-->
+<div class="cart-top">
+  <div class="content">
+    <div class="left">
+      <a href="../index.php" alt="云易购商城"><img src="themes/yunyigou/images1/index_4_03.png" style="margin-top:8px;"/></a>
+    </div>
+    <div style="margin-top:10px;">
+    	<ul class="ncc-flow">
+          <li {if $step eq "cart"}class="current"{/if}><i class="step1"></i>
+            <p>我的购物车</p>
+            <sub></sub>
+            <div class="hr"></div>
+          </li>
+          <li {if $step eq "checkout"}class="current"{/if}><i class="step2"></i>
+            <p>填写核对购物信息</p>
+            <sub></sub>
+            <div class="hr"></div>
+          </li>
+          <li {if $step eq "done"}class="current"{/if}><i class="step3"></i>
+            <p>支付提交</p>
+            <sub></sub>
+            <div class="hr"></div>
+          </li>
+          <li class=""><i class="step4"></i>
+            <p>订单完成</p>
+            <sub></sub>
+            <div class="hr"></div>
+          </li>
+        </ul>
+    </div>
+  </div>  
+</div>
+<div style="clear:both"></div>
+<div class="nav-wrap" style="width:1200px;">
+  <div class="nav">
+    <ul class="nav-list cf">
+      <li class="nav-all">所有商品分类</li>
+      <li> <a href="#" class="on">首页</a> </li>
+      <!-- {foreach name=nav_middle_list from=$navigator_list.middle item=nav} -->
+      <li><a href="{$nav.url}" {if $nav.opennew eq 1}target="_blank" {/if} {if $nav.active eq 1} class="cur"{/if}>{$nav.name} </a></li>
+      <!-- {/foreach} -->
+    </ul>
+  </div>
+</div>
+<div style="clear:both"></div>
+

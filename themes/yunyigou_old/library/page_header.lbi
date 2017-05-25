@@ -1,0 +1,86 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="themes/yunyigou/index.css" rel="stylesheet" type="text/css" />
+{insert_scripts files='transport.js,utils.js'}
+<script language='javascript' src='themes/yunyigou/js/jquery.min.js' type='text/javascript' charset='utf-8'></script>
+
+<script language='javascript' src='themes/yunyigou/js/index.js' type='text/javascript' charset='utf-8'></script>
+<script type="text/javascript">
+var process_request = "{$lang.process_request}";
+</script>
+
+<div class="top1">
+  <div class="content">
+    <div class="left">{insert name='member_info'}</div>
+    <div class="right"><!--{if $navigator_list.top}-->
+    <!-- {foreach name=nav_top_list from=$navigator_list.top item=nav} -->
+           <a style="color:#666" href="{$nav.url}" <!-- {if $nav.opennew eq 1} --> target="_blank" <!-- {/if} -->>{$nav.name}</a>  |
+     <!-- {/foreach} -->        
+   <!-- {/if} --></div>
+  </div>  
+</div>
+<!--top1E-->
+<div style="clear:both"></div>
+
+<!--top1S-->
+<div class="top2">
+  <div class="content">
+    <div class="left">
+      <a href="../index.php" alt="众方医药"><img src="themes/yunyigou/images1/index_4_03.png" style="margin-top:8px;"/></a>
+    </div> 
+    <div class="left">
+      <div class="seach">
+        <div class="seach_border">
+        <form name="searchForm" method="get" action="search.php" onSubmit="return checkSearchForm()">
+            <input name="keywords" id="keyword" type="text" class="input-text" value="" maxlength="60" x-webkit-speech="" lang="zh-CN" onwebkitspeechchange="foo()" placeholder="请输入您要搜索的商品关键字" x-webkit-grammar="builtin:search" _hover-ignore="1">
+            <input name="imageField" type="submit" id="button" value="搜索" class="input-submit" style="cursor:pointer;"/>
+            <a href="search.php?act=advanced_search" class="submit_a" >{$lang.advanced_search}</a>
+        </form>
+        </div>  
+        {if $searchkeywords}<div class="hot_seach">{$lang.hot_search}：{foreach from=$searchkeywords item=val}<a href="search.php?keywords={$val|escape:url}">{$val}</a>{/foreach}</div>{/if}
+      </div>
+    </div> 
+    <div class="right">
+    	<div class="top-cart" onClick="location.href='flow.php'">
+            {insert name='cart_info'}
+        </div>
+      <img src="themes/yunyigou/images1/index_4_06.png" style="margin-top:12px;">
+    </div>
+  </div>  
+</div>
+
+
+<div style="clear:both"></div>
+<div class="nav-wrap">
+  <div class="nav">
+    
+    <ul class="nav-list cf">
+      <li class="nav-all">所有商品分类</li>
+      <li> <a href="../index.php" class="on">首页</a> </li>
+      <!-- {foreach name=nav_middle_list from=$navigator_list.middle item=nav} -->
+      <li><a href="{$nav.url}" {if $nav.opennew eq 1}target="_blank" {/if} {if $nav.active eq 1} class="cur"{/if}>{$nav.name} </a></li>
+      <!-- {/foreach} -->
+    </ul>
+  </div>
+</div>
+
+<div style="clear:both"></div>
+
+<script type="text/javascript">
+    {literal}
+    <!--
+    function checkSearchForm()
+    {
+        if(document.getElementById('keyword').value)
+        {
+            return true;
+        }
+        else
+        {
+             alert("{$lang.no_keywords}");
+            return false;
+        }
+    }
+    -->
+    {/literal}
+</script>
+

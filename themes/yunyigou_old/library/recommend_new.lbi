@@ -1,0 +1,65 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script language='javascript' src='themes/yunyigou/js/home_index.js' type='text/javascript' charset='utf-8'></script>
+<!--循环一级分类-->  
+<!--{foreach from=$index_category_goods name=index_category_goods item=cat}--> 
+<div class="tuijian"><img src="{$cat.category_icon}"/>{$cat.name}<div class="fr"><a href="{$cat.url}">更多>></a></div></div>
+<div style="clear:both;"></div>
+<div class="w1200">  
+  <div class="product_1a background_{$smarty.foreach.index_category_goods.index}">
+    <img src="{$cat.category_thumb}"/>
+    <ul>
+      <!--{foreach from=$cat.cat_child_tree name=new_goods_electrical_menu item=cat_child}-->
+      <!--{if $smarty.foreach.new_goods_electrical_menu.index lt 14}-->
+      <li><a href="{$cat_child.url}">{$cat_child.name|escape:html}</a></li>
+      <!-- {/if} -->
+      <!--{/foreach}-->
+    </ul>    
+  </div>
+  <div class="product_1a_center">
+  <!--{foreach from=$cat.cat_goods item=goods}-->
+  <div class="tuijian_content">
+      <div class="img"><a href="{$goods.url}"><img src="{$goods.thumb}" alt="{$goods.name|escape:html}" class="goodsimg" /></a></div>
+      <a href="{$goods.url}" title="{$goods.name|escape:html}">{$goods.short_style_name}</a>
+      <div><a>{$goods.shop_price}</a>
+      	 <!-- {if $goods.promote_price neq ""} -->
+         <span class="original">{$goods.promote_price}</span>
+         <!-- {else}-->
+         <span class="original">{$goods.market_price}</span>
+         <!--{/if}-->
+      </div>
+    </div>
+  <!--{/foreach}-->
+  </div>
+	<div class="product_1a_right">
+      <div class="title"><img src="themes/yunyigou/images1/hot_paihang_star.png" style="padding-right:11px;"/>热销排行</div>
+      <ul class="sort">
+      <!-- {foreach name=top_goods_electrical from=$cat.get_sales item=sales}-->
+      <!-- {if $smarty.foreach.top_goods_electrical.iteration<4}-->  
+        <li>
+          <span>{$smarty.foreach.top_goods_electrical.iteration}</span>
+          <img src="{$sales.thumb}" alt="{$sales.name|escape:html}" class="img" />                 
+          <a href="#" class="name">{$sales.short_name}<b>{$sales.price}</b></a>
+        </li>
+       <!-- {else} -->
+       	<li {if $smarty.foreach.top_goods_electrical.iteration<4}class="iteration1"{/if} style="clear:both;">
+        	<strong>{$smarty.foreach.top_goods_electrical.iteration}</strong><a href="{$sales.url}" title="{$sales.name|escape:html}">{$sales.short_name}</a>
+        </li>
+      <!-- {/if} -->
+      <!-- {/foreach} -->
+      </ul>
+      
+      <div class="right-side-focus">
+        <ul>
+        <!--{foreach from=$cat.cat_child_tree name=new_goods_electrical_menu item=cat_child}-->
+        <!--{if $smarty.foreach.new_goods_electrical_menu.index lt 5}-->
+           <li>
+            <a href="{$cat_child.url}"><img src="{$cat_child.category_thumb}" alt="{$cat_child.name}" /></a>
+           </li>
+        <!-- {/if} -->
+    	<!--{/foreach}-->
+        </ul>
+	</div>
+  </div>
+</div>
+<div style="clear:both;"></div>
+<!--{/foreach}-->

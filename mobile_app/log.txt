@@ -1,0 +1,1558 @@
+执行日期：20150615095752
+************login begin*****************
+执行日期：20150615095752
+array (
+  'ktime_free/304' => '-2',
+  'ECS' => 
+  array (
+    'history' => '45,41,37',
+    'visit_times' => '67',
+  ),
+  'XDEBUG_SESSION' => '13266',
+)
+执行日期：20150615095752
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150615095753
+array (
+  'session' => 
+  array (
+    'sid' => 'c6726a9770be06311fab309a7e398a4e161ab0fd',
+    'uid' => '12',
+  ),
+  'user' => 
+  array (
+    'id' => '12',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '0',
+    'email' => '314625896@qq.com',
+    'order_num' => 
+    array (
+      'await_pay' => '0',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150615095753
+*************login end****************
+执行日期：20150718095816
+************login begin*****************
+执行日期：20150718095816
+array (
+  'ktime_free/304' => '-2',
+  'ECS' => 
+  array (
+    'visit_times' => '68',
+  ),
+  'XDEBUG_SESSION' => '17526',
+)
+执行日期：20150718095816
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150718095818
+array (
+  'session' => 
+  array (
+    'sid' => '31696d9af3ab6052a92a85a0ee5ee342f8d6bb25',
+    'uid' => '49',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '0',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '1',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150718095818
+*************login end****************
+执行日期：20150718100038
+************login begin*****************
+执行日期：20150718100038
+array (
+  'ktime_free/304' => '-2',
+  'XDEBUG_SESSION' => '17526',
+  'ECS_ID' => '31696d9af3ab6052a92a85a0ee5ee342f8d6bb25',
+  'ECS' => 
+  array (
+    'visit_times' => '69',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+)
+执行日期：20150718100038
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150718100040
+array (
+  'session' => 
+  array (
+    'sid' => '31696d9af3ab6052a92a85a0ee5ee342f8d6bb25',
+    'uid' => '49',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '0',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '1',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150718100040
+*************login end****************
+执行日期：20150718101316
+************login begin*****************
+执行日期：20150718101316
+array (
+  'ktime_free/304' => '-2',
+  'ECS_ID' => '31696d9af3ab6052a92a85a0ee5ee342f8d6bb25',
+  'ECS' => 
+  array (
+    'visit_times' => '70',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+  'XDEBUG_SESSION' => '14544',
+)
+执行日期：20150718101316
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150718101318
+array (
+  'session' => 
+  array (
+    'sid' => '31696d9af3ab6052a92a85a0ee5ee342f8d6bb25',
+    'uid' => '49',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '0',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '1',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150718101318
+*************login end****************
+执行日期：20150718102156
+************login begin*****************
+执行日期：20150718102156
+array (
+  'ktime_free/304' => '-2',
+  'ECS_ID' => '31696d9af3ab6052a92a85a0ee5ee342f8d6bb25',
+  'ECS' => 
+  array (
+    'visit_times' => '70',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+  'XDEBUG_SESSION' => '14544',
+)
+执行日期：20150718102156
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150718102205
+array (
+  'session' => 
+  array (
+    'sid' => '31696d9af3ab6052a92a85a0ee5ee342f8d6bb25',
+    'uid' => '49',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '0',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '1',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150718102205
+*************login end****************
+执行日期：20150718102209
+************login begin*****************
+执行日期：20150718102209
+array (
+  'ktime_free/304' => '-2',
+  'ECS_ID' => '31696d9af3ab6052a92a85a0ee5ee342f8d6bb25',
+  'ECS' => 
+  array (
+    'visit_times' => '70',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+  'XDEBUG_SESSION' => '14544',
+)
+执行日期：20150718102209
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150718102216
+array (
+  'session' => 
+  array (
+    'sid' => '31696d9af3ab6052a92a85a0ee5ee342f8d6bb25',
+    'uid' => '49',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '0',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '1',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150718102216
+*************login end****************
+执行日期：20150718102433
+************login begin*****************
+执行日期：20150718102433
+array (
+  'ktime_free/304' => '-2',
+  'ECS_ID' => '31696d9af3ab6052a92a85a0ee5ee342f8d6bb25',
+  'ECS' => 
+  array (
+    'visit_times' => '70',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+  'XDEBUG_SESSION' => '14337',
+)
+执行日期：20150718102433
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150718102443
+array (
+  'session' => 
+  array (
+    'sid' => '31696d9af3ab6052a92a85a0ee5ee342f8d6bb25',
+    'uid' => '49',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '0',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '1',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150718102443
+*************login end****************
+执行日期：20150718102637
+************login begin*****************
+执行日期：20150718102638
+array (
+  'ktime_free/304' => '-2',
+  'ECS_ID' => '31696d9af3ab6052a92a85a0ee5ee342f8d6bb25',
+  'XDEBUG_SESSION' => '14337',
+  'ECS' => 
+  array (
+    'visit_times' => '71',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+)
+执行日期：20150718102638
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150718102718
+array (
+  'session' => 
+  array (
+    'sid' => '31696d9af3ab6052a92a85a0ee5ee342f8d6bb25',
+    'uid' => '49',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '0',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '1',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150718102718
+*************login end****************
+执行日期：20150718102828
+************login begin*****************
+执行日期：20150718102828
+array (
+  'ktime_free/304' => '-2',
+  'ECS_ID' => '31696d9af3ab6052a92a85a0ee5ee342f8d6bb25',
+  'XDEBUG_SESSION' => '14337',
+  'ECS' => 
+  array (
+    'visit_times' => '71',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+)
+执行日期：20150718102828
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150718102833
+array (
+  'session' => 
+  array (
+    'sid' => '31696d9af3ab6052a92a85a0ee5ee342f8d6bb25',
+    'uid' => '49',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '0',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '1',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150718102833
+*************login end****************
+执行日期：20150718105431
+************login begin*****************
+执行日期：20150718105431
+array (
+  'ktime_free/304' => '-2',
+  'ECS_ID' => '31696d9af3ab6052a92a85a0ee5ee342f8d6bb25',
+  'XDEBUG_SESSION' => '14337',
+  'ECS' => 
+  array (
+    'visit_times' => '71',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+)
+执行日期：20150718105431
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150718105433
+array (
+  'session' => 
+  array (
+    'sid' => '31696d9af3ab6052a92a85a0ee5ee342f8d6bb25',
+    'uid' => '49',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '0',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '1',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150718105433
+*************login end****************
+执行日期：20150727151201
+************login begin*****************
+执行日期：20150727151201
+array (
+  'ECS' => 
+  array (
+    'visit_times' => '1',
+  ),
+  'XDEBUG_SESSION' => '10247',
+)
+执行日期：20150727151201
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150727151359
+************login begin*****************
+执行日期：20150727151359
+array (
+  'ECS' => 
+  array (
+    'visit_times' => '1',
+  ),
+  'XDEBUG_SESSION' => '10247',
+)
+执行日期：20150727151359
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150727153107
+************login begin*****************
+执行日期：20150727153107
+array (
+  'XDEBUG_SESSION' => '10247',
+  'ECS' => 
+  array (
+    'visit_times' => '2',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+)
+执行日期：20150727153107
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150727153115
+************login begin*****************
+执行日期：20150727153115
+array (
+  'XDEBUG_SESSION' => '10247',
+  'ECS' => 
+  array (
+    'visit_times' => '3',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+  'ECS_ID' => '5bb4828ce90e55d1159087daa260f52bded1b27f',
+)
+执行日期：20150727153115
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150727153644
+************login begin*****************
+执行日期：20150727153644
+array (
+  'ECS_ID' => '5bb4828ce90e55d1159087daa260f52bded1b27f',
+  'ECS' => 
+  array (
+    'visit_times' => '4',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+)
+执行日期：20150727153644
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150727153645
+array (
+  'session' => 
+  array (
+    'sid' => '5bb4828ce90e55d1159087daa260f52bded1b27f',
+    'uid' => '0',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '1',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '2',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150727153645
+*************login end****************
+执行日期：20150727153936
+************login begin*****************
+执行日期：20150727153936
+array (
+  'ECS_ID' => '5bb4828ce90e55d1159087daa260f52bded1b27f',
+  'ECS' => 
+  array (
+    'visit_times' => '5',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+)
+执行日期：20150727153936
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150727153937
+array (
+  'session' => 
+  array (
+    'sid' => '5bb4828ce90e55d1159087daa260f52bded1b27f',
+    'uid' => '0',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '1',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '2',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150727153937
+*************login end****************
+执行日期：20150727153955
+************login begin*****************
+执行日期：20150727153955
+array (
+  'ECS_ID' => '5bb4828ce90e55d1159087daa260f52bded1b27f',
+  'ECS' => 
+  array (
+    'visit_times' => '6',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+)
+执行日期：20150727153955
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150727153957
+array (
+  'session' => 
+  array (
+    'sid' => '5bb4828ce90e55d1159087daa260f52bded1b27f',
+    'uid' => '0',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '1',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '2',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150727153957
+*************login end****************
+执行日期：20150727154023
+************login begin*****************
+执行日期：20150727154023
+array (
+  'ECS' => 
+  array (
+    'visit_times' => '7',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+  'XDEBUG_SESSION' => '19178',
+)
+执行日期：20150727154023
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150727154032
+array (
+  'session' => 
+  array (
+    'sid' => 'd97ec76945a0310a4a06a89b42c304b699aee2d1',
+    'uid' => NULL,
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '1',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '2',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150727154032
+*************login end****************
+执行日期：20150727154339
+************login begin*****************
+执行日期：20150727154339
+array (
+  'XDEBUG_SESSION' => '19178',
+  'ECS' => 
+  array (
+    'visit_times' => '8',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+  'ECS_ID' => 'd97ec76945a0310a4a06a89b42c304b699aee2d1',
+)
+执行日期：20150727154339
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150727154507
+array (
+  'session' => 
+  array (
+    'sid' => 'd97ec76945a0310a4a06a89b42c304b699aee2d1',
+    'uid' => '0',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '1',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '2',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150727154507
+*************login end****************
+执行日期：20150727154640
+************login begin*****************
+执行日期：20150727154640
+array (
+  'XDEBUG_SESSION' => '19178',
+  'ECS_ID' => 'd97ec76945a0310a4a06a89b42c304b699aee2d1',
+  'ECS' => 
+  array (
+    'visit_times' => '9',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+)
+执行日期：20150727154640
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150727154736
+array (
+  'session' => 
+  array (
+    'sid' => 'd97ec76945a0310a4a06a89b42c304b699aee2d1',
+    'uid' => '0',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '1',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '2',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150727154736
+*************login end****************
+执行日期：20150727154745
+************login begin*****************
+执行日期：20150727154745
+array (
+  'XDEBUG_SESSION' => '19178',
+  'ECS_ID' => 'd97ec76945a0310a4a06a89b42c304b699aee2d1',
+  'ECS' => 
+  array (
+    'visit_times' => '10',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+)
+执行日期：20150727154745
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150727154746
+array (
+  'session' => 
+  array (
+    'sid' => 'd97ec76945a0310a4a06a89b42c304b699aee2d1',
+    'uid' => '0',
+  ),
+  'user' => 
+  array (
+    'id' => NULL,
+    'name' => NULL,
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '0',
+    'sex' => NULL,
+    'email' => NULL,
+    'birthday' => NULL,
+    'order_num' => 
+    array (
+      'await_pay' => '1',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150727154746
+*************login end****************
+执行日期：20150727154802
+************login begin*****************
+执行日期：20150727154802
+array (
+  'XDEBUG_SESSION' => '19178',
+  'ECS_ID' => 'd97ec76945a0310a4a06a89b42c304b699aee2d1',
+  'ECS' => 
+  array (
+    'visit_times' => '11',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+)
+执行日期：20150727154802
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150727154908
+array (
+  'session' => 
+  array (
+    'sid' => 'd97ec76945a0310a4a06a89b42c304b699aee2d1',
+    'uid' => '0',
+  ),
+  'user' => 
+  array (
+    'id' => NULL,
+    'name' => NULL,
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '0',
+    'sex' => NULL,
+    'email' => NULL,
+    'birthday' => NULL,
+    'order_num' => 
+    array (
+      'await_pay' => '1',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150727154908
+*************login end****************
+执行日期：20150727154923
+************login begin*****************
+执行日期：20150727154923
+array (
+  'XDEBUG_SESSION' => '19178',
+  'ECS_ID' => 'd97ec76945a0310a4a06a89b42c304b699aee2d1',
+  'ECS' => 
+  array (
+    'visit_times' => '12',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+)
+执行日期：20150727154923
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150727155020
+array (
+  'session' => 
+  array (
+    'sid' => 'd97ec76945a0310a4a06a89b42c304b699aee2d1',
+    'uid' => '0',
+  ),
+  'user' => 
+  array (
+    'id' => NULL,
+    'name' => NULL,
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '0',
+    'sex' => NULL,
+    'email' => NULL,
+    'birthday' => NULL,
+    'order_num' => 
+    array (
+      'await_pay' => '1',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150727155020
+*************login end****************
+执行日期：20150727155026
+************login begin*****************
+执行日期：20150727155026
+array (
+  'XDEBUG_SESSION' => '19178',
+  'ECS_ID' => 'd97ec76945a0310a4a06a89b42c304b699aee2d1',
+  'ECS' => 
+  array (
+    'visit_times' => '12',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+)
+执行日期：20150727155026
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150727155028
+array (
+  'session' => 
+  array (
+    'sid' => 'd97ec76945a0310a4a06a89b42c304b699aee2d1',
+    'uid' => '49',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '1',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '2',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150727155028
+*************login end****************
+执行日期：20150727155029
+************login begin*****************
+执行日期：20150727155029
+array (
+  'XDEBUG_SESSION' => '19178',
+  'ECS_ID' => 'd97ec76945a0310a4a06a89b42c304b699aee2d1',
+  'ECS' => 
+  array (
+    'visit_times' => '13',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+)
+执行日期：20150727155029
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150727155031
+array (
+  'session' => 
+  array (
+    'sid' => 'd97ec76945a0310a4a06a89b42c304b699aee2d1',
+    'uid' => '49',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '1',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '2',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150727155031
+*************login end****************
+执行日期：20150727155059
+************login begin*****************
+执行日期：20150727155059
+array (
+  'XDEBUG_SESSION' => '19178',
+  'ECS_ID' => 'd97ec76945a0310a4a06a89b42c304b699aee2d1',
+  'ECS' => 
+  array (
+    'visit_times' => '14',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+)
+执行日期：20150727155059
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150727155101
+array (
+  'session' => 
+  array (
+    'sid' => 'd97ec76945a0310a4a06a89b42c304b699aee2d1',
+    'uid' => '49',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '1',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '2',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150727155101
+*************login end****************
+执行日期：20150727161754
+************login begin*****************
+执行日期：20150727161754
+array (
+  'ECS' => 
+  array (
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+    'visit_times' => '17',
+  ),
+  'XDEBUG_SESSION' => '17931',
+)
+执行日期：20150727161754
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150727161756
+array (
+  'session' => 
+  array (
+    'sid' => '33569cffa8d14684cc576a58107d95ac84e9e559',
+    'uid' => '49',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '1',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '3',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150727161756
+*************login end****************
+执行日期：20150727182710
+************login begin*****************
+执行日期：20150727182710
+array (
+  'ECS' => 
+  array (
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+    'visit_times' => '21',
+  ),
+  'XDEBUG_SESSION' => '10828',
+)
+执行日期：20150727182710
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150727182713
+array (
+  'session' => 
+  array (
+    'sid' => '8be95f8f80653910bf138a12b5b0a394adce468a',
+    'uid' => '49',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '1',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '6',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150727182713
+*************login end****************
+执行日期：20150727184939
+************login begin*****************
+执行日期：20150727184939
+array (
+  'ECS_ID' => '8be95f8f80653910bf138a12b5b0a394adce468a',
+  'ECS' => 
+  array (
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+    'visit_times' => '26',
+  ),
+  'XDEBUG_SESSION' => '12844',
+)
+执行日期：20150727184939
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150727184941
+array (
+  'session' => 
+  array (
+    'sid' => '8be95f8f80653910bf138a12b5b0a394adce468a',
+    'uid' => '49',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '1',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '6',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150727184941
+*************login end****************
+执行日期：20150729131437
+************login begin*****************
+执行日期：20150729131437
+array (
+  'ECS' => 
+  array (
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+    'visit_times' => '28',
+  ),
+  'XDEBUG_SESSION' => '12710',
+)
+执行日期：20150729131437
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150729131439
+array (
+  'session' => 
+  array (
+    'sid' => '70afb6e69986fa7baa1bf5d9fb0fd660d569aa92',
+    'uid' => '49',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '1',
+    'sex' => '0',
+    'email' => '314625896@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '9',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150729131439
+*************login end****************
+执行日期：20150729131444
+************login begin*****************
+执行日期：20150729131444
+array (
+  'XDEBUG_SESSION' => '12710',
+  'ECS' => 
+  array (
+    'visit_times' => '29',
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+  ),
+  'ECS_ID' => '70afb6e69986fa7baa1bf5d9fb0fd660d569aa92',
+)
+执行日期：20150729131444
+array (
+  'name' => 'wangqiuying',
+  'password' => 'wangqiuying',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150729131445
+array (
+  'session' => 
+  array (
+    'sid' => '70afb6e69986fa7baa1bf5d9fb0fd660d569aa92',
+    'uid' => '55',
+  ),
+  'user' => 
+  array (
+    'id' => '55',
+    'name' => 'wangqiuying',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '1',
+    'sex' => '0',
+    'email' => '357452513@qq.com',
+    'birthday' => '0000-00-00',
+    'order_num' => 
+    array (
+      'await_pay' => '3',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150729131445
+*************login end****************
+执行日期：20150729210854
+************login begin*****************
+执行日期：20150729210854
+array (
+  'ECS_ID' => '70afb6e69986fa7baa1bf5d9fb0fd660d569aa92',
+  'ECS' => 
+  array (
+    'username' => 'wangqiuying',
+    'user_id' => '55',
+    'password' => 'dca8c72d0ed6c0543155dfc0f428f611',
+    'visit_times' => '38',
+  ),
+  'XDEBUG_SESSION' => '12144',
+)
+执行日期：20150729210854
+array (
+  'name' => 'zhang',
+  'password' => 'zhang',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150729210856
+array (
+  'session' => 
+  array (
+    'sid' => '70afb6e69986fa7baa1bf5d9fb0fd660d569aa92',
+    'uid' => '76',
+  ),
+  'user' => 
+  array (
+    'id' => '76',
+    'name' => 'zhang',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '2',
+    'cart_num' => '2',
+    'sex' => '0',
+    'email' => 'zhang@qq.com',
+    'birthday' => '1111-11-11',
+    'order_num' => 
+    array (
+      'await_pay' => '4',
+      'await_ship' => '1',
+      'shipped' => '0',
+      'finished' => '3',
+    ),
+  ),
+)
+执行日期：20150729210856
+*************login end****************
+执行日期：20150730114728
+************login begin*****************
+执行日期：20150730114728
+array (
+  'ECS' => 
+  array (
+    'username' => 'zhang',
+    'visit_times' => '41',
+  ),
+  'XDEBUG_SESSION' => '17351',
+)
+执行日期：20150730114728
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150730114729
+array (
+  'session' => 
+  array (
+    'sid' => 'd97dcdb4ee04c93619291a5e6a556424a4f3c6cb',
+    'uid' => '49',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '1',
+    'cart_num' => '0',
+    'sex' => '1',
+    'email' => '11111@qq.com',
+    'birthday' => '1987-09-20',
+    'order_num' => 
+    array (
+      'await_pay' => '9',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150730114729
+*************login end****************
+执行日期：20150730121018
+************login begin*****************
+执行日期：20150730121018
+array (
+  'ECS_ID' => 'd97dcdb4ee04c93619291a5e6a556424a4f3c6cb',
+  'ECS' => 
+  array (
+    'username' => 'zhangxinli',
+    'user_id' => '49',
+    'password' => '8d159e237f3c7a078beb484456bae9eb',
+    'visit_times' => '48',
+  ),
+  'XDEBUG_SESSION' => '16397',
+)
+执行日期：20150730121018
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150730121021
+************login begin*****************
+执行日期：20150730121021
+array (
+  'ECS_ID' => 'd97dcdb4ee04c93619291a5e6a556424a4f3c6cb',
+  'ECS' => 
+  array (
+    'username' => 'zhangxinli',
+    'visit_times' => '49',
+  ),
+  'XDEBUG_SESSION' => '16397',
+)
+执行日期：20150730121021
+array (
+  'name' => 'zhangxinli',
+  'password' => 'zhangxinli1',
+  'session' => '',
+  'pagination' => '',
+)
+执行日期：20150730121023
+array (
+  'session' => 
+  array (
+    'sid' => 'd97dcdb4ee04c93619291a5e6a556424a4f3c6cb',
+    'uid' => '49',
+  ),
+  'user' => 
+  array (
+    'id' => '49',
+    'name' => 'zhangxinli',
+    'rank_name' => '注册用户',
+    'rank_level' => 0,
+    'collection_num' => '1',
+    'cart_num' => '0',
+    'sex' => '0',
+    'email' => '11111@qq.com',
+    'birthday' => '1987-09-20',
+    'order_num' => 
+    array (
+      'await_pay' => '9',
+      'await_ship' => '0',
+      'shipped' => '0',
+      'finished' => '0',
+    ),
+  ),
+)
+执行日期：20150730121023
+*************login end****************

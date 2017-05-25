@@ -1,0 +1,26 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<div class="focus_banner">
+<div class="left-menu">
+  <div class="menu">
+  
+  <!--{foreach name=categories from=$categories item=cat}-->
+    <div class="item">
+      <div class="product">
+        <h3><a style="background:url({$cat.category_icon}) no-repeat;" href="{$cat.url}">{$cat.name|escape:html}</a></h3>
+        <s style="display:block;"></s> </div>
+      <div class="product-wrap">
+        <div>               
+            <ul>
+              <li>
+              <!--{foreach from=$cat.cat_id item=child}-->
+              <a href="{$child.url}" target="_blank">{$child.name|escape:html}</a>
+              <!--{/foreach}-->
+              </li>
+            </ul>
+        </div>
+      </div>
+    </div>
+  <!--{/foreach}--> 
+  
+  </div>
+</div>

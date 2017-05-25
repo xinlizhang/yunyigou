@@ -1,0 +1,21 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- {if $recom_goods} -->
+<div class="box">
+      <div class="boxCenterList clearfix">
+      <!--{foreach from=$recom_goods item=recom_goods_data}-->
+        <ul class="clearfix">
+          <li class="goodsimg"><a href="{$recom_goods_data.url}"><img src="{$recom_goods_data.thumb}" alt="{$recom_goods_data.name|escape:html}" class="B_blue" /></a></li>
+          <li>
+        <a href="{$recom_goods_data.url}" title="{$recom_goods_data.goods_name}">{$recom_goods_data.short_name}</a><br />
+        <!-- {if $recom_goods_data.promote_price neq 0} -->
+        <font class="f1">{$recom_goods_data.formated_promote_price}</font>
+        <!-- {else} -->
+        <font class="f1">{$recom_goods_data.shop_price}</font>
+        <!-- {/if} -->
+          </li>
+        </ul>
+        <!--{/foreach}-->
+      </div>
+    </div>
+<div class="blank5"></div>
+<!-- {/if} -->

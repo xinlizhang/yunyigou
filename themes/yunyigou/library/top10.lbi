@@ -1,0 +1,23 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<div class="product_1a_right">
+      <div class="title"><img src="themes/yunyigou/images1/hot_paihang_star.png" style="padding-right:11px;"/>热销排行</div>
+      <ul>
+      <!-- {foreach name=top_goods from=$top_goods item=goods}-->
+      <!-- {if $smarty.foreach.top_goods.iteration<4}-->  
+        <li>
+          <span>{$smarty.foreach.top_goods.iteration}</span>
+          <img src="{$goods.thumb}" alt="{$goods.name|escape:html}" class="img" />                 
+          <a href="#" class="name">{$goods.short_name}<b>{$goods.price}</b></a>
+        </li>   
+        <li style="clear:both;">
+       <!-- {else} -->
+       	<li {if $smarty.foreach.top_goods.iteration<4}class="iteration1"{/if} style="clear:both;">
+        	<strong>{$smarty.foreach.top_goods.iteration}</strong><a href="{$goods.url}" title="{$goods.name|escape:html}">{$goods.short_name}</a>
+        </li>
+      <!-- {/if} -->
+      <!-- {/foreach} -->
+      </ul>
+      <div class="banner"><img src="themes/yunyigou/images1/index_4_159.png"></div>
+  </div>
+</div>
+<div style="clear:both;"></div>

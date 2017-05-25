@@ -1,0 +1,31 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- {if $pictures}-->
+ <div class="picture">
+		<ul>
+             <!-- {foreach from=$pictures item=picture name=no}-->
+              <li> 
+             <!-- {if $smarty.foreach.no.iteration < 2}  -->
+          
+           <a href="javascript:void(0);">
+        <img src="{$picture.img_url}" alt="{$goods.goods_name}" /></a>
+           <!-- {else}-->
+  <a href="javascript:void(0);">
+        <img src="{$picture.img_url}" alt="{$goods.goods_name}" /></a>
+          <!-- {/if}-->
+          </li>
+            <!--{/foreach}-->
+        </ul>   
+</div>
+ 
+<!-- {/if}-->
+<script type="text/javascript">
+$(function(){
+	$('.picture').find('a').mouseover(function(){
+		
+		var _src = $(this).find('img').attr('src');
+		$('.imgInfo').find('#big_img').attr('src', _src);
+        //$(this).parents('li:first').addClass('selected').siblings().removeClass('selected');
+        
+    });
+});
+</script>
