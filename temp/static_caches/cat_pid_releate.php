@@ -15,32 +15,6 @@ $data = array (
   ),
   1 => 
   array (
-    'cat_id' => '3',
-    'cat_name' => '家用电器',
-    'measure_unit' => '',
-    'parent_id' => '0',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '3',
-    'goods_num' => 0,
-  ),
-  2 => 
-  array (
-    'cat_id' => '12',
-    'cat_name' => '手机数码',
-    'measure_unit' => '',
-    'parent_id' => '0',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 8,
-  ),
-  3 => 
-  array (
     'cat_id' => '13',
     'cat_name' => '酒水茶叶',
     'measure_unit' => '',
@@ -52,7 +26,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 24,
   ),
-  4 => 
+  2 => 
   array (
     'cat_id' => '14',
     'cat_name' => '食品、酒类、茗茶',
@@ -65,7 +39,46 @@ $data = array (
     'has_children' => '0',
     'goods_num' => '12',
   ),
+  3 => 
+  array (
+    'cat_id' => '3',
+    'cat_name' => '家用电器',
+    'measure_unit' => '',
+    'parent_id' => '0',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '3',
+    'goods_num' => 0,
+  ),
+  4 => 
+  array (
+    'cat_id' => '12',
+    'cat_name' => '手机数码',
+    'measure_unit' => '',
+    'parent_id' => '0',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 8,
+  ),
   5 => 
+  array (
+    'cat_id' => '8',
+    'cat_name' => '厨房电器',
+    'measure_unit' => '',
+    'parent_id' => '3',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '1',
+    'goods_num' => 0,
+  ),
+  6 => 
   array (
     'cat_id' => '15',
     'cat_name' => '大家电',
@@ -78,7 +91,7 @@ $data = array (
     'has_children' => '7',
     'goods_num' => 0,
   ),
-  6 => 
+  7 => 
   array (
     'cat_id' => '9',
     'cat_name' => '清洁电器',
@@ -89,19 +102,6 @@ $data = array (
     'grade' => '0',
     'sort_order' => '50',
     'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  7 => 
-  array (
-    'cat_id' => '8',
-    'cat_name' => '厨房电器',
-    'measure_unit' => '',
-    'parent_id' => '3',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '1',
     'goods_num' => 0,
   ),
   8 => 
@@ -132,32 +132,6 @@ $data = array (
   ),
   10 => 
   array (
-    'cat_id' => '18',
-    'cat_name' => '家电配件',
-    'measure_unit' => '',
-    'parent_id' => '15',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  11 => 
-  array (
-    'cat_id' => '6',
-    'cat_name' => '冰箱',
-    'measure_unit' => '',
-    'parent_id' => '15',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => '1',
-  ),
-  12 => 
-  array (
     'cat_id' => '5',
     'cat_name' => '洗衣机',
     'measure_unit' => '',
@@ -169,7 +143,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  13 => 
+  11 => 
   array (
     'cat_id' => '16',
     'cat_name' => '音响',
@@ -182,7 +156,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  14 => 
+  12 => 
   array (
     'cat_id' => '7',
     'cat_name' => '空调',
@@ -195,7 +169,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  15 => 
+  13 => 
   array (
     'cat_id' => '4',
     'cat_name' => '平板电视',
@@ -208,7 +182,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 6,
   ),
-  16 => 
+  14 => 
   array (
     'cat_id' => '17',
     'cat_name' => '家庭影院',
@@ -220,6 +194,32 @@ $data = array (
     'sort_order' => '50',
     'has_children' => '0',
     'goods_num' => 0,
+  ),
+  15 => 
+  array (
+    'cat_id' => '18',
+    'cat_name' => '家电配件',
+    'measure_unit' => '',
+    'parent_id' => '15',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
+  ),
+  16 => 
+  array (
+    'cat_id' => '6',
+    'cat_name' => '冰箱',
+    'measure_unit' => '',
+    'parent_id' => '15',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => '1',
   ),
 );
 ?>

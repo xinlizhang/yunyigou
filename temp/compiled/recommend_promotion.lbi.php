@@ -47,22 +47,22 @@ function clock(key)
     <div class="p-time">限时打折</div>
       <div class="promotion-focus">
           <ul>
-           <?php $_from = $this->_var['promotion_goods']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('key', 'goods_0_75557100_1495183065');$this->_foreach['promotion_foreach'] = array('total' => count($_from), 'iteration' => 0);
+           <?php $_from = $this->_var['promotion_goods']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('key', 'goods_0_98050200_1495759867');$this->_foreach['promotion_foreach'] = array('total' => count($_from), 'iteration' => 0);
 if ($this->_foreach['promotion_foreach']['total'] > 0):
-    foreach ($_from AS $this->_var['key'] => $this->_var['goods_0_75557100_1495183065']):
+    foreach ($_from AS $this->_var['key'] => $this->_var['goods_0_98050200_1495759867']):
         $this->_foreach['promotion_foreach']['iteration']++;
 ?>
          <?php if (($this->_foreach['promotion_foreach']['iteration'] - 1) <= 3): ?>
             <li>
             <dd class="time-remain"><font class="f4" id="leftTime<?php echo $this->_var['key']; ?>"><?php echo $this->_var['lang']['please_waiting']; ?></font></dd>
-              <a href="<?php echo $this->_var['goods_0_75557100_1495183065']['url']; ?>"><img src="<?php echo $this->_var['goods_0_75557100_1495183065']['thumb']; ?>" border="0" alt="<?php echo htmlspecialchars($this->_var['goods_0_75557100_1495183065']['name']); ?>"/></a>
-              </br><?php echo $this->_var['lang']['promote_price']; ?><b><?php echo $this->_var['goods_0_75557100_1495183065']['promote_price']; ?></b>
-              <p><a href="<?php echo $this->_var['goods_0_75557100_1495183065']['url']; ?>" title="<?php echo htmlspecialchars($this->_var['goods_0_75557100_1495183065']['name']); ?>"><?php echo htmlspecialchars($this->_var['goods_0_75557100_1495183065']['short_name']); ?></a></p>
+              <a href="<?php echo $this->_var['goods_0_98050200_1495759867']['url']; ?>"><img src="<?php echo $this->_var['goods_0_98050200_1495759867']['thumb']; ?>" border="0" alt="<?php echo htmlspecialchars($this->_var['goods_0_98050200_1495759867']['name']); ?>"/></a>
+              </br><?php echo $this->_var['lang']['promote_price']; ?><b><?php echo $this->_var['goods_0_98050200_1495759867']['promote_price']; ?></b>
+              <p><a href="<?php echo $this->_var['goods_0_98050200_1495759867']['url']; ?>" title="<?php echo htmlspecialchars($this->_var['goods_0_98050200_1495759867']['name']); ?>"><?php echo htmlspecialchars($this->_var['goods_0_98050200_1495759867']['short_name']); ?></a></p>
             </li>
           
           <?php endif; ?>
 <script>
-Tday[<?php echo $this->_var['key']; ?>] = new Date("<?php echo $this->_var['goods_0_75557100_1495183065']['gmt_end_time']; ?>");   
+Tday[<?php echo $this->_var['key']; ?>] = new Date("<?php echo $this->_var['goods_0_98050200_1495759867']['gmt_end_time']; ?>");   
 window.setInterval(function()     
 {clock(<?php echo $this->_var['key']; ?>);}, 1000);     
 </script>

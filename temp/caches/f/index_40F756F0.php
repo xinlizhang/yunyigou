@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:11:{i:0;s:44:"/data/web/yunyigou/themes/yunyigou/index.dwt";i:1;s:58:"/data/web/yunyigou/themes/yunyigou/library/page_header.lbi";i:2;s:58:"/data/web/yunyigou/themes/yunyigou/library/index_focus.lbi";i:3;s:55:"/data/web/yunyigou/themes/yunyigou/library/index_ad.lbi";i:4;s:59:"/data/web/yunyigou/themes/yunyigou/library/new_articles.lbi";i:5;s:63:"/data/web/yunyigou/themes/yunyigou/library/recommend_best_b.lbi";i:6;s:66:"/data/web/yunyigou/themes/yunyigou/library/recommend_promotion.lbi";i:7;s:71:"/data/web/yunyigou/themes/yunyigou/library/recommend_category_goods.lbi";i:8;s:51:"/data/web/yunyigou/themes/yunyigou/library/help.lbi";i:9;s:58:"/data/web/yunyigou/themes/yunyigou/library/page_footer.lbi";i:10;s:58:"/data/web/yunyigou/themes/yunyigou/library/index_up_ad.lbi";}s:7:"expires";i:1495653981;s:8:"maketime";i:1495650381;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?php exit;?>a:3:{s:8:"template";a:11:{i:0;s:44:"/data/web/yunyigou/themes/yunyigou/index.dwt";i:1;s:58:"/data/web/yunyigou/themes/yunyigou/library/page_header.lbi";i:2;s:58:"/data/web/yunyigou/themes/yunyigou/library/index_focus.lbi";i:3;s:55:"/data/web/yunyigou/themes/yunyigou/library/index_ad.lbi";i:4;s:59:"/data/web/yunyigou/themes/yunyigou/library/new_articles.lbi";i:5;s:63:"/data/web/yunyigou/themes/yunyigou/library/recommend_best_b.lbi";i:6;s:66:"/data/web/yunyigou/themes/yunyigou/library/recommend_promotion.lbi";i:7;s:71:"/data/web/yunyigou/themes/yunyigou/library/recommend_category_goods.lbi";i:8;s:51:"/data/web/yunyigou/themes/yunyigou/library/help.lbi";i:9;s:58:"/data/web/yunyigou/themes/yunyigou/library/page_footer.lbi";i:10;s:58:"/data/web/yunyigou/themes/yunyigou/library/index_up_ad.lbi";}s:7:"expires";i:1495763467;s:8:"maketime";i:1495759867;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
@@ -76,8 +76,7 @@ var process_request = "正在处理您的请求...";
     }
     -->
     
-</script>
-<div class="focus_banner">
+</script><div class="focus_banner">
 <div class="left-menu">
   <div class="menu">
   
@@ -153,16 +152,13 @@ var process_request = "正在处理您的请求...";
    
   
   </div>
-</div> 
-  <div id="focus1">
+</div><div id="focus1">
   <script type="text/javascript">
   var swf_width=750;
   var swf_height=460;
   </script>
   <script type="text/javascript" src="data/flashdata/default/cycle_image.js"></script>
-</div>
- 
-	<div class="left">
+</div><div class="left">
       <ul>
         <li class="title">优质服务</li>
         <li style="background:#fff;"><img src="themes/yunyigou/images1/lct_pz.jpg"/></li>
@@ -196,8 +192,7 @@ var process_request = "正在处理您的请求...";
       </div>
 </div>
 </div>
-<div style="clear:both;"></div>
-	<div class="tuijian"><img src="themes/yunyigou/images1/index_4_87.png"/>特别推荐</div>
+<div style="clear:both;"></div><div class="tuijian"><img src="themes/yunyigou/images1/index_4_87.png"/>特别推荐</div>
 <div class="w1200 home-sale-layout">
 <div class="left-layout">
     <ul class="tabs-nav">    
@@ -298,8 +293,7 @@ var process_request = "正在处理您的请求...";
             </li>
                                 </ul>
     </div>
-</div>
-</div>
+</div></div>
 <div style="clear:both;"></div><script language='javascript' src='themes/yunyigou/js/home_index.js' type='text/javascript' charset='utf-8'></script>
   
  

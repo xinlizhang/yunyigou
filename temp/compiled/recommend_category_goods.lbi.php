@@ -1,17 +1,17 @@
 <script language='javascript' src='themes/yunyigou/js/home_index.js' type='text/javascript' charset='utf-8'></script>
   
-<?php $_from = $this->_var['index_category_goods']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'cat_0_75932900_1495183065');$this->_foreach['index_category_goods'] = array('total' => count($_from), 'iteration' => 0);
+<?php $_from = $this->_var['index_category_goods']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'cat_0_98306700_1495759867');$this->_foreach['index_category_goods'] = array('total' => count($_from), 'iteration' => 0);
 if ($this->_foreach['index_category_goods']['total'] > 0):
-    foreach ($_from AS $this->_var['cat_0_75932900_1495183065']):
+    foreach ($_from AS $this->_var['cat_0_98306700_1495759867']):
         $this->_foreach['index_category_goods']['iteration']++;
 ?> 
-<div class="tuijian"><img src="<?php echo $this->_var['cat_0_75932900_1495183065']['category_icon']; ?>"/><?php echo $this->_var['cat_0_75932900_1495183065']['name']; ?><div class="fr"><a href="<?php echo $this->_var['cat_0_75932900_1495183065']['url']; ?>">更多>></a></div></div>
+<div class="tuijian"><img src="<?php echo $this->_var['cat_0_98306700_1495759867']['category_icon']; ?>"/><?php echo $this->_var['cat_0_98306700_1495759867']['name']; ?><div class="fr"><a href="<?php echo $this->_var['cat_0_98306700_1495759867']['url']; ?>">更多>></a></div></div>
 <div style="clear:both;"></div>
 <div class="w1200">  
   <div class="product_1a background_<?php echo ($this->_foreach['index_category_goods']['iteration'] - 1); ?>">
-    <img src="<?php echo $this->_var['cat_0_75932900_1495183065']['category_img']; ?>"/>
+    <img src="<?php echo $this->_var['cat_0_98306700_1495759867']['category_img']; ?>"/>
     <ul>
-      <?php $_from = $this->_var['cat_0_75932900_1495183065']['cat_child_tree']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'cat_child');$this->_foreach['new_goods_electrical_menu'] = array('total' => count($_from), 'iteration' => 0);
+      <?php $_from = $this->_var['cat_0_98306700_1495759867']['cat_child_tree']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'cat_child');$this->_foreach['new_goods_electrical_menu'] = array('total' => count($_from), 'iteration' => 0);
 if ($this->_foreach['new_goods_electrical_menu']['total'] > 0):
     foreach ($_from AS $this->_var['cat_child']):
         $this->_foreach['new_goods_electrical_menu']['iteration']++;
@@ -23,17 +23,17 @@ if ($this->_foreach['new_goods_electrical_menu']['total'] > 0):
     </ul>    
   </div>
   <div class="product_1a_center">
-  <?php $_from = $this->_var['cat_0_75932900_1495183065']['cat_goods']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'goods_0_75960200_1495183065');if (count($_from)):
-    foreach ($_from AS $this->_var['goods_0_75960200_1495183065']):
+  <?php $_from = $this->_var['cat_0_98306700_1495759867']['cat_goods']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'goods_0_98332600_1495759867');if (count($_from)):
+    foreach ($_from AS $this->_var['goods_0_98332600_1495759867']):
 ?>
   <div class="tuijian_content">
-      <div class="img"><a href="<?php echo $this->_var['goods_0_75960200_1495183065']['url']; ?>"><img src="<?php echo $this->_var['goods_0_75960200_1495183065']['thumb']; ?>" alt="<?php echo htmlspecialchars($this->_var['goods_0_75960200_1495183065']['name']); ?>" class="goodsimg" /></a></div>
-      <a href="<?php echo $this->_var['goods_0_75960200_1495183065']['url']; ?>" title="<?php echo htmlspecialchars($this->_var['goods_0_75960200_1495183065']['name']); ?>"><?php echo $this->_var['goods_0_75960200_1495183065']['short_style_name']; ?></a>
-      <div><a><?php echo $this->_var['goods_0_75960200_1495183065']['shop_price']; ?></a>
-      	 <?php if ($this->_var['goods_0_75960200_1495183065']['promote_price'] != ""): ?>
-         <span class="original"><?php echo $this->_var['goods_0_75960200_1495183065']['promote_price']; ?></span>
+      <div class="img"><a href="<?php echo $this->_var['goods_0_98332600_1495759867']['url']; ?>"><img src="<?php echo $this->_var['goods_0_98332600_1495759867']['thumb']; ?>" alt="<?php echo htmlspecialchars($this->_var['goods_0_98332600_1495759867']['name']); ?>" class="goodsimg" /></a></div>
+      <a href="<?php echo $this->_var['goods_0_98332600_1495759867']['url']; ?>" title="<?php echo htmlspecialchars($this->_var['goods_0_98332600_1495759867']['name']); ?>"><?php echo $this->_var['goods_0_98332600_1495759867']['short_style_name']; ?></a>
+      <div><a><?php echo $this->_var['goods_0_98332600_1495759867']['shop_price']; ?></a>
+      	 <?php if ($this->_var['goods_0_98332600_1495759867']['promote_price'] != ""): ?>
+         <span class="original"><?php echo $this->_var['goods_0_98332600_1495759867']['promote_price']; ?></span>
          <?php else: ?>
-         <span class="original"><?php echo $this->_var['goods_0_75960200_1495183065']['market_price']; ?></span>
+         <span class="original"><?php echo $this->_var['goods_0_98332600_1495759867']['market_price']; ?></span>
          <?php endif; ?>
       </div>
     </div>
@@ -42,7 +42,7 @@ if ($this->_foreach['new_goods_electrical_menu']['total'] > 0):
 	<div class="product_1a_right">
       <div class="title"><img src="themes/yunyigou/images1/hot_paihang_star.png" style="padding-right:11px;"/>热销排行</div>
       <ul class="sort">
-      <?php $_from = $this->_var['cat_0_75932900_1495183065']['get_sales']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'sales');$this->_foreach['top_goods_electrical'] = array('total' => count($_from), 'iteration' => 0);
+      <?php $_from = $this->_var['cat_0_98306700_1495759867']['get_sales']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'sales');$this->_foreach['top_goods_electrical'] = array('total' => count($_from), 'iteration' => 0);
 if ($this->_foreach['top_goods_electrical']['total'] > 0):
     foreach ($_from AS $this->_var['sales']):
         $this->_foreach['top_goods_electrical']['iteration']++;
@@ -63,7 +63,7 @@ if ($this->_foreach['top_goods_electrical']['total'] > 0):
       
       <div class="right-side-focus">
         <ul>
-        <?php $_from = $this->_var['cat_0_75932900_1495183065']['cat_child_tree']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'cat_child');$this->_foreach['new_goods_electrical_menu'] = array('total' => count($_from), 'iteration' => 0);
+        <?php $_from = $this->_var['cat_0_98306700_1495759867']['cat_child_tree']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'cat_child');$this->_foreach['new_goods_electrical_menu'] = array('total' => count($_from), 'iteration' => 0);
 if ($this->_foreach['new_goods_electrical_menu']['total'] > 0):
     foreach ($_from AS $this->_var['cat_child']):
         $this->_foreach['new_goods_electrical_menu']['iteration']++;
