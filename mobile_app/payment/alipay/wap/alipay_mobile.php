@@ -56,7 +56,7 @@ class ALIPAY_MOBILE
             "out_trade_no"	=> $out_trade_no,
             "subject"	=> $subject,
             "total_fee"	=> $total_fee,
-            "show_url"	=> "http://www.yunyigou.com",
+            "show_url"	=> "http://www.disanqiche.com/yunyigou",
             "_input_charset"	=> trim(strtolower($this->alipay_config['input_charset'])),
             "notify_url"	=> $notify_url
             //"return_url"	=> $return_url,

@@ -10,7 +10,7 @@
     <div class="tabs-panel sale-goods-list">
         <ul>
         	<!--{foreach from=$hot_goods name=hot_goods item=goods}-->
-            
+            <!--{if $smarty.foreach.hot_goods.index lt 5}-->
             <li>
                 <dl>
                     <dt class="goods-name"><a href="{$goods.url}" target="_blank" title="{$goods.name|escape:html}">{$goods.short_style_name}</a></dt>
@@ -20,7 +20,7 @@
                     <dd class="goods-price">商城价：<em><!-- {if $goods.promote_price neq ""} -->{$goods.promote_price}<!-- {else}-->{$goods.shop_price}<!--{/if}--></em></dd>
                 </dl>
             </li>
-
+            <!--{/if}-->
             <!--{/foreach}-->
         </ul>
     </div>

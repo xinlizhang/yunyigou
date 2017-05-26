@@ -183,7 +183,7 @@ scrollAmount=3><U><FONT color=red>
   'wap_config' => '0',
   'wap_logo' => '',
   'message_check' => '1',
-  'shop_url' => 'http://www.yunyigou.com',
+  'shop_url' => 'http://www.disanqiche.com/yunyigou',
   'show_asynclist' => '0',
   'sms_ecmoban_user' => '',
   'sms_ecmoban_password' => '',

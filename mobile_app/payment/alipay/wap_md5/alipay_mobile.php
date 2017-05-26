@@ -54,7 +54,7 @@ class ALIPAY_MOBILE_MD5
 
         $body = $order['order_sn'];
         //商品展示地址
-        $show_url = "http://www.yunyigou.com";
+        $show_url = "http://www.disanqiche.com/yunyigou";
         //需以http://开头的完整路径，例如：http://www.商户网址.com/myorder.html
 
         //防钓鱼时间戳

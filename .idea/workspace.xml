@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f198cb4b-dfd6-4566-96c2-b80d85978847" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/data/cache/static_caches/touch_shop_config.php" afterPath="$PROJECT_DIR$/mobile/data/cache/static_caches/touch_shop_config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile_app/payment/alipay/wap/alipay_mobile.php" afterPath="$PROJECT_DIR$/mobile_app/payment/alipay/wap/alipay_mobile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile_app/payment/alipay/wap_md5/alipay_mobile.php" afterPath="$PROJECT_DIR$/mobile_app/payment/alipay/wap_md5/alipay_mobile.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yunyigou/library/recommend_best_b.lbi" afterPath="$PROJECT_DIR$/themes/yunyigou/library/recommend_best_b.lbi" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,51 +17,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap_md5/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-145">
-              <caret line="117" column="30" lean-forward="false" selection-start-line="117" selection-start-column="21" selection-end-line="117" selection-end-column="30" />
-              <folding>
-                <marker date="1495715435000" expanded="true" signature="4595:4681" ph="SELECT ad_ty... ${$ecs-&gt;table(&quot;ad_custom&quot;)}" />
-                <marker date="1495715435000" expanded="true" signature="5044:5208" ph="SELECT c.cat... ${$ecs-&gt;table(&quot;cat_recommend&quot;)}" />
-                <marker date="1495715435000" expanded="true" signature="5928:6268" ph="SELECT o.ord... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
-                <marker date="1495715435000" expanded="true" signature="12073:12181" ph="SELECT link_... ${$GLOBALS['ecs']-&gt;table('friend_link')}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="recommend_best_b.lbi" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/yunyigou/library/recommend_best_b.lbi">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+            <state relative-caret-position="450">
+              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lib_goods.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/lib_goods.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1197">
-              <caret line="351" column="36" lean-forward="false" selection-start-line="351" selection-start-column="36" selection-end-line="351" selection-end-column="36" />
-              <folding>
-                <marker date="1495715435000" expanded="true" signature="982:1071" ph="SELECT paren... ${$GLOBALS['ecs']-&gt;table('category')}" />
-                <marker date="1495715435000" expanded="true" signature="1268:1378" ph="SELECT count... ${$GLOBALS['ecs']-&gt;table('category')}" />
-                <marker date="1495715435000" expanded="true" signature="2734:2842" ph="SELECT count... ${$GLOBALS['ecs']-&gt;table('category')}" />
-                <marker date="1495715435000" expanded="true" signature="34736:34824" ph="SELECT cat_n... ${$GLOBALS['ecs']-&gt;table('category')}" />
-                <marker date="1495715435000" expanded="true" signature="37647:37738" ph="SELECT brand... ${$GLOBALS['ecs']-&gt;table('brand')}" />
-                <marker date="1495715435000" expanded="true" signature="38199:38275" ph="SELECT goods... ${$GLOBALS['ecs']-&gt;table('goods_cat')}" />
-                <marker date="1495715435000" expanded="true" signature="39379:39472" ph="SELECT SUM(a... ${$GLOBALS['ecs']-&gt;table('goods_attr')}" />
-                <marker date="1495715435000" expanded="true" signature="45452:45539" ph="SELECT * FRO... ${$GLOBALS['ecs']-&gt;table('goods_activity')}" />
-                <marker date="1495715435000" expanded="true" signature="46573:46692" ph="SELECT COUNT... ${$GLOBALS['ecs']-&gt;table('auction_log')}" />
-                <marker date="1495715435000" expanded="true" signature="50392:50496" ph="SELECT * FRO... ${$GLOBALS['ecs']-&gt;table('favourable_activity')}" />
-                <marker date="1495715435000" expanded="true" signature="51218:51312" ph="SELECT * FRO... ${$GLOBALS['ecs']-&gt;table('wholesale')}" />
-                <marker date="1495715435000" expanded="true" signature="56484:56609" ph="SELECT * FRO... ${$GLOBALS['ecs']-&gt;table('products')}" />
-                <marker date="1495715435000" expanded="true" signature="61876:62017" ph="SELECT * FRO... ${$GLOBALS['ecs']-&gt;table('category')}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -85,6 +48,9 @@
       <find>index_up_ad.lbi</find>
       <find>hot</find>
       <find>hot_goods</find>
+      <find>yunyigou</find>
+      <find>yunyigou.</find>
+      <find>yunyigou.com</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -101,6 +67,7 @@
         <option value="$PROJECT_DIR$/themes/yunyigou/index.dwt" />
         <option value="$PROJECT_DIR$/temp/caches/f/index_40F756F0.php" />
         <option value="$PROJECT_DIR$/themes/yunyigou/library/recommend_best_b.lbi" />
+        <option value="$PROJECT_DIR$/mobile_app/payment/alipay/wap_md5/alipay_mobile.php" />
       </list>
     </option>
   </component>
@@ -187,6 +154,86 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="yunyigou">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="yunyigou">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="mobile_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="yunyigou">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="mobile_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="payment">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="yunyigou">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="mobile_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="payment">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="alipay">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="wap_md5">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="yunyigou">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="mobile_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="payment">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="alipay">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -297,12 +344,12 @@
       <updated>1495759399685</updated>
       <workItem from="1495759401653" duration="865000" />
       <workItem from="1495769065987" duration="21000" />
-      <workItem from="1495769518671" duration="704000" />
+      <workItem from="1495769518671" duration="2185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1590000" />
+    <option name="totallyTimeSpent" value="3071000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -404,10 +451,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="117" column="44" lean-forward="false" selection-start-line="117" selection-start-column="44" selection-end-line="117" selection-end-column="44" />
+          <folding>
+            <marker date="1495715435000" expanded="true" signature="4595:4681" ph="SELECT ad_ty... ${$ecs-&gt;table(&quot;ad_custom&quot;)}" />
+            <marker date="1495715435000" expanded="true" signature="5044:5208" ph="SELECT c.cat... ${$ecs-&gt;table(&quot;cat_recommend&quot;)}" />
+            <marker date="1495715435000" expanded="true" signature="5928:6268" ph="SELECT o.ord... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1495715435000" expanded="true" signature="12073:12181" ph="SELECT link_... ${$GLOBALS['ecs']-&gt;table('friend_link')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/includes/lib_goods.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="351" column="36" lean-forward="false" selection-start-line="351" selection-start-column="36" selection-end-line="351" selection-end-column="36" />
+        <state relative-caret-position="61">
+          <caret line="214" column="0" lean-forward="true" selection-start-line="214" selection-start-column="0" selection-end-line="214" selection-end-column="0" />
           <folding>
             <marker date="1495715435000" expanded="true" signature="982:1071" ph="SELECT paren... ${$GLOBALS['ecs']-&gt;table('category')}" />
             <marker date="1495715435000" expanded="true" signature="1268:1378" ph="SELECT count... ${$GLOBALS['ecs']-&gt;table('category')}" />
@@ -426,23 +486,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/themes/yunyigou/library/recommend_best_b.lbi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-145">
-          <caret line="117" column="30" lean-forward="false" selection-start-line="117" selection-start-column="21" selection-end-line="117" selection-end-column="30" />
+        <state relative-caret-position="375">
+          <caret line="46" column="54" lean-forward="false" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/controller/list/best.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/library/function_goods.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2313">
+          <caret line="296" column="13" lean-forward="true" selection-start-line="296" selection-start-column="13" selection-end-line="296" selection-end-column="13" />
           <folding>
-            <marker date="1495715435000" expanded="true" signature="4595:4681" ph="SELECT ad_ty... ${$ecs-&gt;table(&quot;ad_custom&quot;)}" />
-            <marker date="1495715435000" expanded="true" signature="5044:5208" ph="SELECT c.cat... ${$ecs-&gt;table(&quot;cat_recommend&quot;)}" />
-            <marker date="1495715435000" expanded="true" signature="5928:6268" ph="SELECT o.ord... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
-            <marker date="1495715435000" expanded="true" signature="12073:12181" ph="SELECT link_... ${$GLOBALS['ecs']-&gt;table('friend_link')}" />
+            <marker date="1495715435000" expanded="true" signature="1135:1240" ph="SELECT `good... ${$GLOBALS['ecs']-&gt;table('goods')}" />
+            <marker date="1495715435000" expanded="true" signature="1289:1392" ph="SELECT `good... ${$GLOBALS['ecs']-&gt;table('goods')}" />
+            <marker date="1495715435000" expanded="true" signature="1444:1550" ph="SELECT `orig... ${$GLOBALS['ecs']-&gt;table('goods')}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/yunyigou/library/recommend_best_b.lbi">
+    <entry file="file://$PROJECT_DIR$/mobile_app/controller/order/pay.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        <state relative-caret-position="-526">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap_md5/notify_url.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="36" column="4" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap_md5/alipay_mobile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="734">
+          <caret line="56" column="55" lean-forward="false" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap_md5/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
           <folding />
         </state>
       </provider>
