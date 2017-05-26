@@ -36,6 +36,5 @@
 
 <?php echo $this->fetch('library/help.lbi'); ?>
 <?php echo $this->fetch('library/page_footer.lbi'); ?>
-<?php echo $this->fetch('library/index_up_ad.lbi'); ?>
 </body>
 </html>
