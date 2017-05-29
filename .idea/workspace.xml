@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f198cb4b-dfd6-4566-96c2-b80d85978847" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile_app/respond.php" afterPath="$PROJECT_DIR$/mobile_app/respond.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/respond.php" afterPath="$PROJECT_DIR$/respond.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yunyigou/respond.dwt" afterPath="$PROJECT_DIR$/themes/yunyigou/respond.dwt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,14 +16,24 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="respond.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="respond.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile_app/respond.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+            <state relative-caret-position="536">
+              <caret line="92" column="36" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="36" />
               <folding>
-                <marker date="1496031002000" expanded="true" signature="1286:1382" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
+                <marker date="1496031351000" expanded="true" signature="1286:1382" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="robots.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/robots.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -36,34 +48,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="alipay.config.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap/alipay.config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="alipay_mobile.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap/alipay_mobile.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="32" lean-forward="false" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="respond.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/respond.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+            <state relative-caret-position="561">
+              <caret line="97" column="26" lean-forward="false" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="26" />
               <folding>
-                <marker date="1495715435000" expanded="true" signature="1580:1676" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
+                <marker date="1496031390000" expanded="true" signature="1580:1676" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="respond.dwt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/yunyigou/respond.dwt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="482">
+              <caret line="55" column="36" lean-forward="false" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="receive.dwt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/yunyigou/receive.dwt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="33" lean-forward="false" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -114,26 +126,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="return_url.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap/return_url.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="60" column="6" lean-forward="true" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>\&lt;a href\=\&quot;\#loginmodal\&quot; class\=\&quot;qhdidian\&quot; id\=\&quot;modaltrigger\&quot; rel\=\&quot;leanModal\&quot;\&gt;\&lt;\/a\&gt;\n</find>
-      <find>index_up_ad.lbi</find>
-      <find>hot</find>
-      <find>hot_goods</find>
-      <find>yunyigou</find>
-      <find>yunyigou.</find>
       <find>yunyigou.com</find>
       <find>r</find>
       <find>respon</find>
@@ -158,6 +154,12 @@
       <find>php</find>
       <find>2088021352785005</find>
       <find>$alipay_config</find>
+      <find>pay_not_exist</find>
+      <find>pay_fail</find>
+      <find>else</find>
+      <find>els</find>
+      <find>msg</find>
+      <find>messa</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -179,6 +181,8 @@
         <option value="$PROJECT_DIR$/mobile_app/payment/app_callback.php" />
         <option value="$PROJECT_DIR$/mobile_app/payment/alipay/wap/alipay.config.php" />
         <option value="$PROJECT_DIR$/mobile_app/respond.php" />
+        <option value="$PROJECT_DIR$/respond.php" />
+        <option value="$PROJECT_DIR$/themes/yunyigou/respond.dwt" />
       </list>
     </option>
   </component>
@@ -230,7 +234,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="mobile_app">
+            <PATH_ELEMENT USER_OBJECT="themes">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -244,11 +248,11 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="mobile_app">
+            <PATH_ELEMENT USER_OBJECT="themes">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="payment">
+            <PATH_ELEMENT USER_OBJECT="yunyigou">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -389,12 +393,12 @@
       <workItem from="1495759401653" duration="865000" />
       <workItem from="1495769065987" duration="21000" />
       <workItem from="1495769518671" duration="4618000" />
-      <workItem from="1496025290661" duration="4032000" />
+      <workItem from="1496025290661" duration="5225000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9536000" />
+    <option name="totallyTimeSpent" value="10729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -431,40 +435,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/includes/modules/payment/alipay.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2340">
-          <caret line="167" column="22" lean-forward="true" selection-start-line="167" selection-start-column="13" selection-end-line="167" selection-end-column="22" />
-          <folding>
-            <marker date="1495715435000" expanded="true" signature="4117:4134" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile_app/payment/app_callback.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile_app/payment/wap_callback.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/plugins/payment/alipay_wap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="93" column="353" lean-forward="false" selection-start-line="93" selection-start-column="353" selection-end-line="93" selection-end-column="353" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mobile/respond.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -480,7 +450,7 @@
         <state relative-caret-position="975">
           <caret line="76" column="33" lean-forward="false" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
           <folding>
-            <marker date="1495715435000" expanded="true" signature="1580:1676" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
+            <marker date="1496031390000" expanded="true" signature="1580:1676" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
           </folding>
         </state>
       </provider>
@@ -554,6 +524,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="117" column="44" lean-forward="false" selection-start-line="117" selection-start-column="44" selection-end-line="117" selection-end-column="44" />
+          <folding>
+            <marker date="1495715435000" expanded="true" signature="4595:4681" ph="SELECT ad_ty... ${$ecs-&gt;table(&quot;ad_custom&quot;)}" />
+            <marker date="1495715435000" expanded="true" signature="5044:5208" ph="SELECT c.cat... ${$ecs-&gt;table(&quot;cat_recommend&quot;)}" />
+            <marker date="1495715435000" expanded="true" signature="5928:6268" ph="SELECT o.ord... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1495715435000" expanded="true" signature="12073:12181" ph="SELECT link_... ${$GLOBALS['ecs']-&gt;table('friend_link')}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -876,16 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/respond.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
-          <folding>
-            <marker date="1495715435000" expanded="true" signature="1580:1676" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mobile/api/uc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
@@ -900,13 +866,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/languages/zh_cn/common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="355" column="16" lean-forward="false" selection-start-line="355" selection-start-column="8" selection-end-line="355" selection-end-column="16" />
+          <folding>
+            <marker date="1495715435000" expanded="true" signature="19438:19475" ph="..." />
+            <marker date="1495715435000" expanded="true" signature="19643:19657" ph="..." />
+            <marker date="1495715435000" expanded="true" signature="19762:19768" ph=" " />
+            <marker date="1495715435000" expanded="true" signature="19808:19822" ph="..." />
+            <marker date="1495715435000" expanded="true" signature="19906:19912" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mobile_app/respond.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+        <state relative-caret-position="536">
+          <caret line="92" column="36" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="36" />
           <folding>
-            <marker date="1496031002000" expanded="true" signature="1286:1382" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
+            <marker date="1496031351000" expanded="true" signature="1286:1382" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/yunyigou/receive.dwt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="33" lean-forward="false" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/respond.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="97" column="26" lean-forward="false" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="26" />
+          <folding>
+            <marker date="1496031390000" expanded="true" signature="1580:1676" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/yunyigou/respond.dwt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="55" column="36" lean-forward="false" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>

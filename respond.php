@@ -95,6 +95,8 @@ $smarty->assign('helps',      get_shop_help());      // 网店帮助
 $smarty->assign('message',    $msg);
 $smarty->assign('shop_url',   $ecs->url());
 
+$smarty->assign('is_mobile',  false);
+
 $smarty->display('respond.dwt');
 
 ?>
