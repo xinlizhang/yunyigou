@@ -24,22 +24,22 @@ p a{color:#006acd; text-decoration:underline;}
         <!-- #BeginLibraryItem "/library/page_header.lbi" --><!-- #EndLibraryItem -->
     <!--{/if}-->
 
-<div class="blank"></div>
-<div class="block">
-  <div class="box">
-   <div class="box_1">
-    <h3><span>{$lang.system_info}</span></h3>
-    <div class="boxCenterList RelaArticle" align="center">
-      <div style="margin:20px auto;">
+    <div class="blank"></div>
+    <div class="block">
+      <div class="box">
+       <div class="box_1">
+        <h3><span>{$lang.system_info}</span></h3>
+        <div class="boxCenterList RelaArticle" align="center">
+          <div style="margin:20px auto;">
 
-      <p style="font-size: 14px; font-weight:bold; color: red;">{$message}</p>
-        <div class="blank"></div>
+          <p style="font-size: 14px; font-weight:bold; color: red;">{$message}</p>
+            <div class="blank"></div>
 
-         <!--{if $is_mobile}-->
+             <!--{if $is_mobile}-->
 
-            <!--{else}-->
-                     <!--{if $virtual_card}-->
-                        <table width="100%" border="0" cellpadding="5" cellspacing="1" bgcolor="#dddddd">
+             <!--{else}-->
+                 <!--{if $virtual_card}-->
+                    <table width="100%" border="0" cellpadding="5" cellspacing="1" bgcolor="#dddddd">
                         <!--{foreach from=$virtual_card item=vgoods}-->
                           <!--{foreach from=$vgoods.info item=card}-->
                             <tr>
@@ -52,23 +52,21 @@ p a{color:#006acd; text-decoration:underline;}
                             </tr>
                           <!--{/foreach}-->
                         <!--{/foreach}-->
-                        </table>
-                        <!--{/if}-->
-            <!--{/if}-->
+                    </table>
+                 <!--{/if}-->
+             <!--{/if}-->
 
+             <!--{if $is_mobile}-->
+                请点击左上角返回
+             <!--{else}-->
+                <a href="{$shop_url}">{$lang.back_home}</a>
+             <!--{/if}-->
 
-
-        <!--{if $is_mobile}-->
-        <a href="{$shop_url}">{$lang.back_home}</a>
-        <!--{else}-->
-        请点击左上角返回
-        <!--{/if}-->
-
+          </div>
+        </div>
+       </div>
       </div>
     </div>
-   </div>
-  </div>
-</div>
 
     <!--{if $is_mobile}-->
 
