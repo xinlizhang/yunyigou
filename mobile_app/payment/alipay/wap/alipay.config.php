@@ -24,7 +24,7 @@ $alipay_config['partner']		= '2088021352785005';
 
 //安全检验码，以数字和字母组成的32位字符
 //如果签名方式设置为“MD5”时，请设置该参数
-$alipay_config['key']			= '5jt3us7dtyvjzx9ibdqhulvkdan5jn0y';
+$alipay_config['key']			= 'xak4izv7283gr8p2bjmagj9y6qcc3ige';
 
 //商户的私钥（后缀是.pen）文件相对路径
 //如果签名方式设置为“0001”时，请设置该参数
