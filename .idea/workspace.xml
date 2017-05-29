@@ -17,10 +17,10 @@
       <file leaf-file-name="respond.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mobile_app/respond.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="326">
+              <caret line="66" column="19" lean-forward="false" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
               <folding>
-                <marker date="1496030802000" expanded="true" signature="1295:1391" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
+                <marker date="1496030858000" expanded="true" signature="1286:1382" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
               </folding>
             </state>
           </provider>
@@ -389,12 +389,12 @@
       <workItem from="1495759401653" duration="865000" />
       <workItem from="1495769065987" duration="21000" />
       <workItem from="1495769518671" duration="4618000" />
-      <workItem from="1496025290661" duration="3837000" />
+      <workItem from="1496025290661" duration="3916000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9341000" />
+    <option name="totallyTimeSpent" value="9420000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -902,10 +902,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile_app/respond.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="326">
+          <caret line="66" column="19" lean-forward="false" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
           <folding>
-            <marker date="1496030802000" expanded="true" signature="1295:1391" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
+            <marker date="1496030858000" expanded="true" signature="1286:1382" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
           </folding>
         </state>
       </provider>
