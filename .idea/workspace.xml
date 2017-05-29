@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f198cb4b-dfd6-4566-96c2-b80d85978847" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/data/cache/static_caches/touch_shop_config.php" afterPath="$PROJECT_DIR$/mobile/data/cache/static_caches/touch_shop_config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile_app/payment/alipay/wap/alipay_mobile.php" afterPath="$PROJECT_DIR$/mobile_app/payment/alipay/wap/alipay_mobile.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile_app/payment/alipay/wap_md5/alipay_mobile.php" afterPath="$PROJECT_DIR$/mobile_app/payment/alipay/wap_md5/alipay_mobile.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yunyigou/library/recommend_best_b.lbi" afterPath="$PROJECT_DIR$/themes/yunyigou/library/recommend_best_b.lbi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile_app/payment/app_callback.php" afterPath="$PROJECT_DIR$/mobile_app/payment/app_callback.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,12 +14,106 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap_md5/readme.txt">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile_app/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-693">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1495715435000" expanded="true" signature="1140:2232" ph="..." />
+                <marker date="1495715435000" expanded="true" signature="1151:1303" ph="..." />
+                <marker date="1495715435000" expanded="false" signature="1322:1336" ph="..." />
+                <marker date="1495715435000" expanded="true" signature="1337:2224" ph="..." />
+                <marker date="1495715435000" expanded="true" signature="1352:1568" ph="..." />
+                <marker date="1495715435000" expanded="false" signature="1651:1667" ph="..." />
+                <marker date="1495715435000" expanded="false" signature="1706:1722" ph="..." />
+                <marker date="1495715435000" expanded="false" signature="1813:1829" ph="..." />
+                <marker date="1495715435000" expanded="false" signature="1868:1884" ph="..." />
+                <marker date="1495715435000" expanded="false" signature="1923:1939" ph="..." />
+                <marker date="1495715435000" expanded="false" signature="1992:2008" ph="..." />
+                <marker date="1495715435000" expanded="false" signature="2041:2057" ph="..." />
+                <marker date="1495715435000" expanded="false" signature="2129:2145" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app_callback.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile_app/payment/app_callback.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alipay.config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap/alipay.config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alipay_mobile.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap/alipay_mobile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="40" column="32" lean-forward="false" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cacert.pem" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap/cacert.pem">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-590">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notify_url.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap/notify_url.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+              <caret line="85" column="50" lean-forward="false" selection-start-line="85" selection-start-column="50" selection-end-line="85" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="return_url.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap/return_url.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -31,17 +123,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>loginmodal</find>
-      <find>i</find>
-      <find>index</find>
-      <find>index_</find>
-      <find>index_up</find>
-      <find>index_up_</find>
-      <find>index_up_a</find>
-      <find>index_up_ad</find>
-      <find>index_up_ad.</find>
-      <find>index_up_ad.l</find>
-      <find>index_up_ad.lbl</find>
       <find>index_up_ad.lb</find>
       <find>index_ad.jpg</find>
       <find>\&lt;a href\=\&quot;\#loginmodal\&quot; class\=\&quot;qhdidian\&quot; id\=\&quot;modaltrigger\&quot; rel\=\&quot;leanModal\&quot;\&gt;\&lt;\/a\&gt;\n</find>
@@ -51,6 +132,27 @@
       <find>yunyigou</find>
       <find>yunyigou.</find>
       <find>yunyigou.com</find>
+      <find>r</find>
+      <find>respon</find>
+      <find>respond.</find>
+      <find>y</find>
+      <find>yunyigou/</find>
+      <find>yunyigou/mobil</find>
+      <find>yunyigou/mobile</find>
+      <find>yunyigou/mobile_</find>
+      <find>re</find>
+      <find>respo</find>
+      <find>return_url</find>
+      <find>ALIPAY_CALLBACK</find>
+      <find>res</find>
+      <find>respond.php</find>
+      <find>-&gt;url()</find>
+      <find>$GLOBALS['ecs']</find>
+      <find>$['ecs']</find>
+      <find>['ecs']</find>
+      <find>respond()</find>
+      <find>resp</find>
+      <find>php</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -68,6 +170,8 @@
         <option value="$PROJECT_DIR$/temp/caches/f/index_40F756F0.php" />
         <option value="$PROJECT_DIR$/themes/yunyigou/library/recommend_best_b.lbi" />
         <option value="$PROJECT_DIR$/mobile_app/payment/alipay/wap_md5/alipay_mobile.php" />
+        <option value="$PROJECT_DIR$/includes/lib_payment.php" />
+        <option value="$PROJECT_DIR$/mobile_app/payment/app_callback.php" />
       </list>
     </option>
   </component>
@@ -98,6 +202,100 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="yunyigou">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="yunyigou">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="mobile_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="yunyigou">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="mobile_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="payment">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="yunyigou">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="mobile_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="payment">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="alipay">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="yunyigou">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="mobile_app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="payment">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="alipay">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="wap">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -116,135 +314,16 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="External Dependencies">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="/">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Users">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="zhangxinli">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Documents">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Projects">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="yunyigou">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="yunyigou">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="mobile_app">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="yunyigou">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="mobile_app">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="payment">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="yunyigou">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="mobile_app">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="payment">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="alipay">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="wap_md5">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="yunyigou">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="mobile_app">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="payment">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="alipay">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mobile_app" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -309,6 +388,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -344,23 +429,23 @@
       <updated>1495759399685</updated>
       <workItem from="1495759401653" duration="865000" />
       <workItem from="1495769065987" duration="21000" />
-      <workItem from="1495769518671" duration="2185000" />
+      <workItem from="1495769518671" duration="4618000" />
+      <workItem from="1496025290661" duration="1220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3071000" />
+    <option name="totallyTimeSpent" value="6724000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16478191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21647818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -372,6 +457,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -386,6 +472,90 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/includes/lib_payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding>
+            <marker date="1495715435000" expanded="true" signature="811:919" ph="SELECT * FRO... ${$GLOBALS['ecs']-&gt;table('payment')}" />
+            <marker date="1495715435000" expanded="true" signature="1490:1600" ph="SELECT log_i... ${$GLOBALS['ecs']-&gt;table('pay_log')}" />
+            <marker date="1495715435000" expanded="true" signature="1755:1848" ph="SELECT order... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1495715435000" expanded="true" signature="2006:2101" ph="SELECT log_i... ${$GLOBALS['ecs']-&gt;table('pay_log')}" />
+            <marker date="1495715435000" expanded="true" signature="2331:2427" ph="SELECT goods... ${$GLOBALS['ecs']-&gt;table('order_goods')}" />
+            <marker date="1495715435000" expanded="true" signature="2757:2862" ph="SELECT order... ${$GLOBALS['ecs']-&gt;table('pay_log')}" />
+            <marker date="1495715435000" expanded="true" signature="3420:3516" ph="SELECT * FRO... ${$GLOBALS['ecs']-&gt;table('pay_log')}" />
+            <marker date="1495715435000" expanded="true" signature="6003:6013" ph="..." />
+            <marker date="1495715435000" expanded="true" signature="7173:7298" ph="SELECT `id` ${$GLOBALS['ecs']-&gt;table('user_account')}" />
+            <marker date="1495715435000" expanded="true" signature="7795:7929" ph="SELECT user_... ${$GLOBALS['ecs']-&gt;table('user_account')}" />
+            <marker date="1495715435000" expanded="true" signature="8639:8752" ph="SELECT pay_t... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/respond.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding>
+            <marker date="1495715435000" expanded="true" signature="1580:1676" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/modules/payment/alipay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="167" column="22" lean-forward="true" selection-start-line="167" selection-start-column="13" selection-end-line="167" selection-end-column="22" />
+          <folding>
+            <marker date="1495715435000" expanded="true" signature="4117:4134" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/payment/app_callback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/payment/wap_callback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/plugins/payment/alipay_wap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="93" column="353" lean-forward="false" selection-start-line="93" selection-start-column="353" selection-end-line="93" selection-end-column="353" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/respond.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#603#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/respond.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="76" column="33" lean-forward="false" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
+          <folding>
+            <marker date="1495715435000" expanded="true" signature="1580:1676" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/temp/compiled/index_up_ad.lbi.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
@@ -447,7 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="1284" column="9" lean-forward="false" selection-start-line="1284" selection-start-column="9" selection-end-line="1284" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -455,12 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="117" column="44" lean-forward="false" selection-start-line="117" selection-start-column="44" selection-end-line="117" selection-end-column="44" />
-          <folding>
-            <marker date="1495715435000" expanded="true" signature="4595:4681" ph="SELECT ad_ty... ${$ecs-&gt;table(&quot;ad_custom&quot;)}" />
-            <marker date="1495715435000" expanded="true" signature="5044:5208" ph="SELECT c.cat... ${$ecs-&gt;table(&quot;cat_recommend&quot;)}" />
-            <marker date="1495715435000" expanded="true" signature="5928:6268" ph="SELECT o.ord... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
-            <marker date="1495715435000" expanded="true" signature="12073:12181" ph="SELECT link_... ${$GLOBALS['ecs']-&gt;table('friend_link')}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -490,7 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="46" column="54" lean-forward="false" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -498,19 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile_app/library/function_goods.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2313">
-          <caret line="296" column="13" lean-forward="true" selection-start-line="296" selection-start-column="13" selection-end-line="296" selection-end-column="13" />
-          <folding>
-            <marker date="1495715435000" expanded="true" signature="1135:1240" ph="SELECT `good... ${$GLOBALS['ecs']-&gt;table('goods')}" />
-            <marker date="1495715435000" expanded="true" signature="1289:1392" ph="SELECT `good... ${$GLOBALS['ecs']-&gt;table('goods')}" />
-            <marker date="1495715435000" expanded="true" signature="1444:1550" ph="SELECT `orig... ${$GLOBALS['ecs']-&gt;table('goods')}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -526,7 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="36" column="4" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -534,14 +682,270 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="734">
           <caret line="56" column="55" lean-forward="false" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/respond.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#603#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="214" column="9" lean-forward="false" selection-start-line="214" selection-start-column="9" selection-end-line="214" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap_md5/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="149">
           <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/test/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="53" column="28" lean-forward="false" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/include/apps/default/common/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="1367" column="9" lean-forward="false" selection-start-line="1367" selection-start-column="9" selection-end-line="1367" selection-end-column="9" />
+          <folding>
+            <marker date="1495715435000" expanded="true" signature="1720:1724" ph="&gt;" />
+            <marker date="1495715435000" expanded="true" signature="2072:2076" ph="&gt;" />
+            <marker date="1495715435000" expanded="true" signature="2368:2372" ph="&gt;" />
+            <marker date="1495715435000" expanded="true" signature="2652:2656" ph="&gt;" />
+            <marker date="1495715435000" expanded="true" signature="2941:2945" ph="&gt;" />
+            <marker date="1495715435000" expanded="true" signature="3236:3240" ph="&gt;" />
+            <marker date="1495715435000" expanded="true" signature="3481:3485" ph="&gt;" />
+            <marker date="1495715435000" expanded="true" signature="4454:4458" ph="&gt;" />
+            <marker date="1495715435000" expanded="true" signature="14842:14993" ph="SELECT SUM(o... ${M()-&gt;pre}" />
+            <marker date="1495715435000" expanded="true" signature="47727:47943" ph="SELECT g.goo... ${M()-&gt;pre}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/plugins/payment/alipay_wap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="93" column="353" lean-forward="false" selection-start-line="93" selection-start-column="353" selection-end-line="93" selection-end-column="353" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/respond.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding>
+            <marker date="1495715435000" expanded="true" signature="1580:1676" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/respond.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <marker date="1495715435000" expanded="true" signature="1580:1676" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/modules/payment/alipay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="127" column="40" lean-forward="false" selection-start-line="127" selection-start-column="40" selection-end-line="127" selection-end-column="40" />
+          <folding>
+            <marker date="1495715435000" expanded="true" signature="4117:4134" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/lib_payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <marker date="1495715435000" expanded="true" signature="811:919" ph="SELECT * FRO... ${$GLOBALS['ecs']-&gt;table('payment')}" />
+            <marker date="1495715435000" expanded="true" signature="1490:1600" ph="SELECT log_i... ${$GLOBALS['ecs']-&gt;table('pay_log')}" />
+            <marker date="1495715435000" expanded="true" signature="1755:1848" ph="SELECT order... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1495715435000" expanded="true" signature="2006:2101" ph="SELECT log_i... ${$GLOBALS['ecs']-&gt;table('pay_log')}" />
+            <marker date="1495715435000" expanded="true" signature="2331:2427" ph="SELECT goods... ${$GLOBALS['ecs']-&gt;table('order_goods')}" />
+            <marker date="1495715435000" expanded="true" signature="2757:2862" ph="SELECT order... ${$GLOBALS['ecs']-&gt;table('pay_log')}" />
+            <marker date="1495715435000" expanded="true" signature="3420:3516" ph="SELECT * FRO... ${$GLOBALS['ecs']-&gt;table('pay_log')}" />
+            <marker date="1495715435000" expanded="true" signature="6003:6013" ph="..." />
+            <marker date="1495715435000" expanded="true" signature="7173:7298" ph="SELECT `id` ${$GLOBALS['ecs']-&gt;table('user_account')}" />
+            <marker date="1495715435000" expanded="true" signature="7795:7929" ph="SELECT user_... ${$GLOBALS['ecs']-&gt;table('user_account')}" />
+            <marker date="1495715435000" expanded="true" signature="8639:8752" ph="SELECT pay_t... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/library/function_goods.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3842">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495715435000" expanded="true" signature="1135:1240" ph="SELECT `good... ${$GLOBALS['ecs']-&gt;table('goods')}" />
+            <marker date="1495715435000" expanded="true" signature="1289:1392" ph="SELECT `good... ${$GLOBALS['ecs']-&gt;table('goods')}" />
+            <marker date="1495715435000" expanded="true" signature="1444:1550" ph="SELECT `orig... ${$GLOBALS['ecs']-&gt;table('goods')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/library/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="422" column="47" lean-forward="false" selection-start-line="422" selection-start-column="39" selection-end-line="422" selection-end-column="47" />
+          <folding>
+            <marker date="1495715435000" expanded="true" signature="131:233" ph="SELECT COUNT... ${$ecs-&gt;table('collect_goods')}" />
+            <marker date="1495715435000" expanded="true" signature="267:357" ph="SELECT COUNT... ${$ecs-&gt;table('cart')}" />
+            <marker date="1495715435000" expanded="true" signature="389:468" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1495715435000" expanded="true" signature="533:612" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1495715435000" expanded="true" signature="675:754" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1495715435000" expanded="true" signature="815:894" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1495715435000" expanded="true" signature="1028:1205" ph="SELECT rank_... ${$GLOBALS['ecs']-&gt;table('user_rank')}" />
+            <marker date="1495715435000" expanded="true" signature="1274:1388" ph="SELECT rank_... ${$GLOBALS['ecs']-&gt;table('user_rank')}" />
+            <marker date="1495715435000" expanded="true" signature="1574:1677" ph="SELECT * FRO... ${$GLOBALS['ecs']-&gt;table('user_rank')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/payment/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/payment/wap_callback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-474">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/payment/wap_upmp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/payment/wap_merchant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-693">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495715435000" expanded="true" signature="1140:2232" ph="..." />
+            <marker date="1495715435000" expanded="true" signature="1151:1303" ph="..." />
+            <marker date="1495715435000" expanded="false" signature="1322:1336" ph="..." />
+            <marker date="1495715435000" expanded="true" signature="1337:2224" ph="..." />
+            <marker date="1495715435000" expanded="true" signature="1352:1568" ph="..." />
+            <marker date="1495715435000" expanded="false" signature="1651:1667" ph="..." />
+            <marker date="1495715435000" expanded="false" signature="1706:1722" ph="..." />
+            <marker date="1495715435000" expanded="false" signature="1813:1829" ph="..." />
+            <marker date="1495715435000" expanded="false" signature="1868:1884" ph="..." />
+            <marker date="1495715435000" expanded="false" signature="1923:1939" ph="..." />
+            <marker date="1495715435000" expanded="false" signature="1992:2008" ph="..." />
+            <marker date="1495715435000" expanded="false" signature="2041:2057" ph="..." />
+            <marker date="1495715435000" expanded="false" signature="2129:2145" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap/cacert.pem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-590">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap/return_url.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/payment/app_callback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap/alipay.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap/alipay_mobile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="40" column="32" lean-forward="false" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/controller/user/signin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_app/payment/alipay/wap/notify_url.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="85" column="50" lean-forward="false" selection-start-line="85" selection-start-column="50" selection-end-line="85" selection-end-column="50" />
           <folding />
         </state>
       </provider>
