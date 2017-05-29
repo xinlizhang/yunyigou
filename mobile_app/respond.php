@@ -7,7 +7,7 @@
 
 <?php
 
-echo _SERVER ['DOCUMENT_ROOT'];
+echo $_SERVER ['DOCUMENT_ROOT'];
 define('IN_ECS', true);
 require($_SERVER ['DOCUMENT_ROOT'] . '/includes/init.php');
 require($_SERVER ['DOCUMENT_ROOT'] . '/includes/lib_payment.php');
