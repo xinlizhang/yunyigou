@@ -128,6 +128,22 @@ $data = array (
     'id' => '15',
     'name' => '大家电',
   ),
+  6 => 
+  array (
+    'cat_id' => '6',
+    'cat_name' => '冰箱',
+    'measure_unit' => '',
+    'parent_id' => '15',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => '1',
+    'level' => 2,
+    'id' => '6',
+    'name' => '冰箱',
+  ),
   5 => 
   array (
     'cat_id' => '5',
@@ -223,22 +239,6 @@ $data = array (
     'level' => 2,
     'id' => '18',
     'name' => '家电配件',
-  ),
-  6 => 
-  array (
-    'cat_id' => '6',
-    'cat_name' => '冰箱',
-    'measure_unit' => '',
-    'parent_id' => '15',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => '1',
-    'level' => 2,
-    'id' => '6',
-    'name' => '冰箱',
   ),
   9 => 
   array (
