@@ -8,13 +8,14 @@
 <?php
 
 define('IN_ECS', true);
-
+echo "1";
 require(EC_PATH . 'includes/init.php');
 require(EC_PATH . 'includes/lib_payment.php');
 require(EC_PATH . 'includes/lib_order.php');
+echo "1";
 /* 支付方式代码 */
 $pay_code = !empty($_REQUEST['code']) ? trim($_REQUEST['code']) : '';
-
+echo "1";
 /* 参数是否为空 */
 if (empty($pay_code))
 {
@@ -60,6 +61,7 @@ else
         }
     }
 }
+echo "1";
 echo $msg;
 ?>
 
